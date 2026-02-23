@@ -1,0 +1,336 @@
+{
+  "topic": "Adjectives",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She is a very talent girl.",
+        "She is a very talented girl.",
+        "She is a very talents girl.",
+        "She is a very talenting girl."
+      ],
+      "answer": 1,
+      "explanation": "The correct adjective form is 'talented', not 'talent'."
+    },
+    {
+      "question": "Choose the correct order of adjectives:",
+      "options": [
+        "He bought a red small new car.",
+        "He bought a new small red car.",
+        "He bought a small new red car.",
+        "He bought a new red small car."
+      ],
+      "answer": 2,
+      "explanation": "Typical adjective order is opinion/size + age + color + noun: 'small new red car'."
+    },
+    {
+      "question": "Select the correct comparative form:",
+      "options": [
+        "This problem is more easy than that one.",
+        "This problem is easier than that one.",
+        "This problem is easyer than that one.",
+        "This problem is most easy than that one."
+      ],
+      "answer": 1,
+      "explanation": "One‑syllable adjectives like 'easy' usually take '-er': 'easier'."
+    },
+    {
+      "question": "Select the correct superlative form:",
+      "options": [
+        "She is the most tall girl in the class.",
+        "She is the taller girl in the class.",
+        "She is the tallest girl in the class.",
+        "She is the most tallest girl in the class."
+      ],
+      "answer": 2,
+      "explanation": "For short adjectives like 'tall', use 'the + adjective + est': 'the tallest'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "This soup tastes well.",
+        "This soup tastes good.",
+        "This soup is tasting goodly.",
+        "This soup is very well taste."
+      ],
+      "answer": 1,
+      "explanation": "After sense verbs like 'taste', use an adjective, not an adverb: 'tastes good'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He became angrily when he heard the news.",
+        "He became anger when he heard the news.",
+        "He became angry when he heard the news.",
+        "He became more angryly when he heard the news."
+      ],
+      "answer": 2,
+      "explanation": "Linking verbs like 'become' are followed by adjectives: 'became angry'."
+    },
+    {
+      "question": "Select the correct option to complete the sentence: 'This is the ______ movie I have ever seen.'",
+      "options": [
+        "more boring",
+        "most boring",
+        "boringest",
+        "very boring"
+      ],
+      "answer": 1,
+      "explanation": "With 'ever' and a superlative, use 'the most boring'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "She speaks an excellent English.",
+        "She speaks excellent English.",
+        "She speaks a excellent English.",
+        "She speaks the excellent English."
+      ],
+      "answer": 1,
+      "explanation": "When a noun is uncountable like 'English', use 'excellent English' without an article."
+    },
+    {
+      "question": "Choose the correct form:",
+      "options": [
+        "This exercise is too much difficult.",
+        "This exercise is very too difficult.",
+        "This exercise is much difficult.",
+        "This exercise is too difficult."
+      ],
+      "answer": 3,
+      "explanation": "'Too' is followed directly by an adjective: 'too difficult'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She is afraid from spiders.",
+        "She is afraid of spiders.",
+        "She is afraid by spiders.",
+        "She is afraid about spiders."
+      ],
+      "answer": 1,
+      "explanation": "The correct collocation is 'afraid of' something."
+    },
+    {
+      "question": "Select the correct comparative structure:",
+      "options": [
+        "My house is more big than yours.",
+        "My house is bigger than yours.",
+        "My house is more bigger than yours.",
+        "My house is biggest than yours."
+      ],
+      "answer": 1,
+      "explanation": "For one‑syllable adjectives like 'big', use 'bigger', not 'more big' or 'more bigger'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "He is interested on history.",
+        "He is interested for history.",
+        "He is interested about history.",
+        "He is interested in history."
+      ],
+      "answer": 3,
+      "explanation": "The correct phrase is 'interested in' something."
+    },
+    {
+      "question": "Choose the correct option:",
+      "options": [
+        "This book is enough interesting.",
+        "This book is quite interesting.",
+        "This book is very enough interesting.",
+        "This book is too interesting for me read."
+      ],
+      "answer": 1,
+      "explanation": "'Quite' is commonly used before adjectives in this meaning: 'quite interesting'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She looks happily today.",
+        "She looks happy today.",
+        "She is looking happily today.",
+        "She is look happy today."
+      ],
+      "answer": 1,
+      "explanation": "'Look' as a linking verb takes an adjective: 'looks happy'."
+    },
+    {
+      "question": "Select the correct form to complete the sentence: 'This is ______ question than the last one.'",
+      "options": [
+        "a difficult",
+        "the more difficult",
+        "a more difficult",
+        "more difficult"
+      ],
+      "answer": 2,
+      "explanation": "Before a singular count noun, use 'a more difficult question'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "He gave me an useful advice.",
+        "He gave me useful advice.",
+        "He gave me a useful advices.",
+        "He gave me some useful advice."
+      ],
+      "answer": 3,
+      "explanation": "'Advice' is uncountable; use 'some useful advice'."
+    },
+    {
+      "question": "Choose the correct pair:",
+      "options": [
+        "She feels bad and sadly.",
+        "She feels badly and sad.",
+        "She feels bad and sad.",
+        "She feels badly and sadly."
+      ],
+      "answer": 2,
+      "explanation": "After 'feel', adjectives are used: 'feels bad and sad'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He is responsible of this project.",
+        "He is responsible to this project.",
+        "He is responsible for this project.",
+        "He is responsible about this project."
+      ],
+      "answer": 2,
+      "explanation": "The correct phrase is 'responsible for' something."
+    },
+    {
+      "question": "Select the correct form:",
+      "options": [
+        "Today is the most hot day of the year.",
+        "Today is the hotest day of the year.",
+        "Today is the hottest day of the year.",
+        "Today is the more hot day of the year."
+      ],
+      "answer": 2,
+      "explanation": "For 'hot', double the final consonant and add '-est': 'the hottest'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He is very angry to me.",
+        "He is very angry with me.",
+        "He is very angry on me.",
+        "He is very angry for me."
+      ],
+      "answer": 1,
+      "explanation": "The common collocation is 'angry with someone'."
+    },
+    {
+      "question": "Choose the correct option:",
+      "options": [
+        "It was a so boring lecture.",
+        "It was so a boring lecture.",
+        "It was such a boring lecture.",
+        "It was such boring lecture."
+      ],
+      "answer": 2,
+      "explanation": "'Such a/an + adjective + singular noun': 'such a boring lecture'."
+    },
+    {
+      "question": "Select the correct adjective order:",
+      "options": [
+        "He has a wooden beautiful small table.",
+        "He has a small beautiful wooden table.",
+        "He has a beautiful small wooden table.",
+        "He has a small wooden beautiful table."
+      ],
+      "answer": 2,
+      "explanation": "Usual order is opinion + size + material + noun: 'beautiful small wooden table'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She is married with a doctor.",
+        "She is married to a doctor.",
+        "She is married by a doctor.",
+        "She is married of a doctor."
+      ],
+      "answer": 1,
+      "explanation": "The correct phrase is 'married to' someone."
+    },
+    {
+      "question": "Select the correct comparative sentence:",
+      "options": [
+        "This test is less difficult than the previous one.",
+        "This test is lesser difficult than the previous one.",
+        "This test is more less difficult than the previous one.",
+        "This test is little difficult than the previous one."
+      ],
+      "answer": 0,
+      "explanation": "'Less + adjective' is the correct comparative: 'less difficult'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The news is very surprising.",
+        "The news are very surprising.",
+        "The news is very surprised.",
+        "The news are very surprised."
+      ],
+      "answer": 0,
+      "explanation": "'News' is singular and takes 'is'; it causes surprise, so 'surprising' is correct."
+    },
+    {
+      "question": "Select the correct form:",
+      "options": [
+        "He is enough tall to play basketball.",
+        "He is tall enough to play basketball.",
+        "He is enoughly tall to play basketball.",
+        "He is so enough tall to play basketball."
+      ],
+      "answer": 1,
+      "explanation": "With adjectives, 'enough' comes after the adjective: 'tall enough'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "This is the most unique idea I have heard.",
+        "This is a very unique idea I have heard.",
+        "This is the uniqueest idea I have heard.",
+        "This is more unique idea I have heard."
+      ],
+      "answer": 1,
+      "explanation": "Adjectives like 'unique' are absolute; avoid 'most unique' and use modifiers like 'very unique'."
+    },
+    {
+      "question": "Choose the correct option:",
+      "options": [
+        "He is good in solving problems.",
+        "He is good at solving problems.",
+        "He is good on solving problems.",
+        "He is good for solving problems."
+      ],
+      "answer": 1,
+      "explanation": "The correct phrase is 'good at' doing something."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "She is extremely a smart person.",
+        "She is an extremely smart person.",
+        "She is a extremely smart person.",
+        "She is extremely smart a person."
+      ],
+      "answer": 1,
+      "explanation": "Adverb + adjective + noun with article: 'an extremely smart person'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I am tired to walking.",
+        "I am tired for walking.",
+        "I am tired of walking.",
+        "I am tired by walking."
+      ],
+      "answer": 2,
+      "explanation": "The correct phrase is 'tired of' doing something."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "topic": "Nouns",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct plural form:",
+      "options": [
+        "childs",
+        "childes",
+        "children",
+        "childrens"
+      ],
+      "answer": 2,
+      "explanation": "'Children' is the irregular plural of 'child'."
+    },
+    {
+      "question": "Identify the countable noun:",
+      "options": [
+        "water",
+        "furniture",
+        "book",
+        "information"
+      ],
+      "answer": 2,
+      "explanation": "'Book' is countable (one book, two books); others are uncountable."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She has many luggages.",
+        "She has much luggage.",
+        "She has a luggages.",
+        "She has many luggage."
+      ],
+      "answer": 1,
+      "explanation": "'Luggage' is uncountable; use 'much luggage'."
+    },
+    {
+      "question": "Select the correct possessive form:",
+      "options": [
+        "the childrens' toys",
+        "the children's toys",
+        "the childs' toys",
+        "the childrens toys"
+      ],
+      "answer": 1,
+      "explanation": "Possessive of 'children' is 'children's'; apostrophe before 's'."
+    },
+    {
+      "question": "Choose the correct plural:",
+      "options": [
+        "man",
+        "mans",
+        "mens",
+        "men"
+      ],
+      "answer": 3,
+      "explanation": "'Men' is the irregular plural of 'man'."
+    },
+    {
+      "question": "Identify the uncountable noun:",
+      "options": [
+        "apple",
+        "chair",
+        "rice",
+        "car"
+      ],
+      "answer": 2,
+      "explanation": "'Rice' is uncountable (much rice); others are countable."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I need an advice.",
+        "I need some advice.",
+        "I need advices.",
+        "I need a advices."
+      ],
+      "answer": 1,
+      "explanation": "'Advice' is uncountable; use 'some advice'."
+    },
+    {
+      "question": "Select the correct plural form:",
+      "options": [
+        "womans",
+        "womanses",
+        "women",
+        "woman"
+      ],
+      "answer": 2}
+      
+  ]
+}

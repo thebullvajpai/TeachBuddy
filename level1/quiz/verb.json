@@ -1,0 +1,314 @@
+{
+  "topic": "Verbs",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct verb form:",
+      "options": [
+        "She go to work every day.",
+        "She goes to work every day.",
+        "She going to work every day.",
+        "She gone to work every day."
+      ],
+      "answer": 1,
+      "explanation": "Present simple: 3rd person singular adds 's' - 'goes'."
+    },
+    {
+      "question": "Identify the correct past tense:",
+      "options": [
+        "I eated breakfast.",
+        "I eat breakfast yesterday.",
+        "I ate breakfast.",
+        "I eaten breakfast."
+      ],
+      "answer": 2,
+      "explanation": "'Eat' irregular past: 'ate' (not 'eated')."
+    },
+    {
+      "question": "Choose the correct verb agreement:",
+      "options": [
+        "The team are winning.",
+        "The team is winning.",
+        "The team were winning.",
+        "The team be winning."
+      ],
+      "answer": 1,
+      "explanation": "Collective noun 'team' takes singular verb: 'is winning'."
+    },
+    {
+      "question": "Select the correct past participle:",
+      "options": [
+        "I have went to the store.",
+        "I have go to the store.",
+        "I have gone to the store.",
+        "I have going to the store."
+      ],
+      "answer": 2,
+      "explanation": "'Go' past participle: 'gone' (have/has + gone)."
+    },
+    {
+      "question": "Choose the correct transitive verb usage:",
+      "options": [
+        "She laughed the joke.",
+        "She laughed at the joke.",
+        "She laugh the joke.",
+        "She laughing the joke."
+      ],
+      "answer": 1,
+      "explanation": "'Laugh' is intransitive; needs preposition: 'laughed at'."
+    },
+    {
+      "question": "Identify the correct auxiliary verb:",
+      "options": [
+        "She do likes coffee.",
+        "She does likes coffee.",
+        "She does like coffee.",
+        "She doing likes coffee."
+      ],
+      "answer": 2,
+      "explanation": "3rd person singular: 'does' + base form 'like'."
+    },
+    {
+      "question": "Choose the correct phrasal verb:",
+      "options": [
+        "Turn up the music.",
+        "Turn the music up.",
+        "Both A and B",
+        "Turn up music the."
+      ],
+      "answer": 2,
+      "explanation": "Both 'turn up the music' and 'turn the music up' are correct."
+    },
+    {
+      "question": "Select the correct modal verb:",
+      "options": [
+        "I can to help you.",
+        "I can help you.",
+        "I helping you can.",
+        "I can helped you."
+      ],
+      "answer": 1,
+      "explanation": "Modal + base verb: 'can help' (no 'to')."
+    },
+    {
+      "question": "Choose the correct verb tense:",
+      "options": [
+        "By next year, I will finished the course.",
+        "By next year, I will have finished the course.",
+        "By next year, I finish the course.",
+        "By next year, I will finishing the course."
+      ],
+      "answer": 1,
+      "explanation": "Future perfect for completion before future time: 'will have finished'."
+    },
+    {
+      "question": "Identify the linking verb:",
+      "options": [
+        "She seems happy.",
+        "She runs fast.",
+        "She eats apples.",
+        "She sings beautifully."
+      ],
+      "answer": 0,
+      "explanation": "'Seems' links subject to adjective complement."
+    },
+    {
+      "question": "Choose the correct causative verb:",
+      "options": [
+        "I had my car repair.",
+        "I had my car repaired.",
+        "I had repaired my car.",
+        "I repair had my car."
+      ],
+      "answer": 1,
+      "explanation": "'Have + object + past participle': 'had my car repaired'."
+    },
+    {
+      "question": "Select the correct stative verb usage:",
+      "options": [
+        "I am knowing the answer.",
+        "I know the answer.",
+        "I knowing the answer.",
+        "I am know the answer."
+      ],
+      "answer": 1,
+      "explanation": "Stative verbs (know) don't use continuous: 'I know'."
+    },
+    {
+      "question": "Choose the correct verb form after 'let':",
+      "options": [
+        "Let him to go.",
+        "Let him go.",
+        "Let him going.",
+        "Let him goes."
+      ],
+      "answer": 1,
+      "explanation": "'Let + object + base verb': 'let him go'."
+    },
+    {
+      "question": "Identify the correct subjunctive:",
+      "options": [
+        "I suggest that he go.",
+        "I suggest that he goes.",
+        "I suggest that he going.",
+        "I suggest that he gone."
+      ],
+      "answer": 0,
+      "explanation": "After 'suggest', use base form: 'he go'."
+    },
+    {
+      "question": "Choose the correct verb pattern:",
+      "options": [
+        "I enjoy to swim.",
+        "I enjoy swimming.",
+        "I enjoy swim.",
+        "I enjoy swims."
+      ],
+      "answer": 1,
+      "explanation": "'Enjoy + gerund': 'enjoy swimming'."
+    },
+    {
+      "question": "Select the correct passive voice:",
+      "options": [
+        "The book was wrote by him.",
+        "The book was written by him.",
+        "The book written by him.",
+        "The book is write by him."
+      ],
+      "answer": 1,
+      "explanation": "Passive: 'was + past participle': 'was written'."
+    },
+    {
+      "question": "Choose the correct verb after 'make':",
+      "options": [
+        "She made me to laugh.",
+        "She made me laugh.",
+        "She made me laughing.",
+        "She made me laughs."
+      ],
+      "answer": 1,
+      "explanation": "'Make + object + base verb': 'made me laugh'."
+    },
+    {
+      "question": "Identify the correct tense sequence:",
+      "options": [
+        "She said she loves him.",
+        "She said she loved him.",
+        "She said she love him.",
+        "She said she loving him."
+      ],
+      "answer": 1,
+      "explanation": "Reported speech: present → past: 'loves' → 'loved'."
+    },
+    {
+      "question": "Choose the correct verb form:",
+      "options": [
+        "I used to living here.",
+        "I used to live here.",
+        "I use to living here.",
+        "I used living here."
+      ],
+      "answer": 1,
+      "explanation": "'Used to + base verb' for past habits."
+    },
+    {
+      "question": "Select the correct conditional verb:",
+      "options": [
+        "If I knew, I would tell.",
+        "If I know, I would tell.",
+        "If I known, I would tell.",
+        "If I knowing, I would tell."
+      ],
+      "answer": 0,
+      "explanation": "2nd conditional: 'If + past, would + base'."
+    },
+    {
+      "question": "Choose the correct verb after preposition:",
+      "options": [
+        "I'm good at to cook.",
+        "I'm good at cooking.",
+        "I'm good at cook.",
+        "I'm good at cooked."
+      ],
+      "answer": 1,
+      "explanation": "Preposition + gerund: 'good at cooking'."
+    },
+    {
+      "question": "Identify the correct emphatic form:",
+      "options": [
+        "I do want to go.",
+        "I want do to go.",
+        "I do to want go.",
+        "I wanting do go."
+      ],
+      "answer": 0,
+      "explanation": "'Do + base verb' for emphasis: 'do want'."
+    },
+    {
+      "question": "Choose the correct perfect continuous:",
+      "options": [
+        "I have been working here since 2010.",
+        "I have working here since 2010.",
+        "I been working here since 2010.",
+        "I have been work here since 2010."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect continuous: 'have been + verb-ing'."
+    },
+    {
+      "question": "Select the correct verb with 'too...to':",
+      "options": [
+        "It's too hot to going out.",
+        "It's too hot to go out.",
+        "It's too hot go out.",
+        "It's too hot going out."
+      ],
+      "answer": 1,
+      "explanation": "'Too + adj + to + base verb': 'too hot to go'."
+    },
+    {
+      "question": "Choose the correct verb after 'help':",
+      "options": [
+        "I helped him to carry the bag.",
+        "I helped him carry the bag.",
+        "Both A and B",
+        "I helping him carry the bag."
+      ],
+      "answer": 2,
+      "explanation": "Both 'help + to + infinitive' and 'help + base verb' are correct."
+    },
+    {
+      "question": "Identify the correct future form:",
+      "options": [
+        "I will going to the store.",
+        "I'm going to the store.",
+        "I going to the store.",
+        "I go to the store future."
+      ],
+      "answer": 1,
+      "explanation": "'Be going to' for plans: 'I'm going to'."
+    },
+    {
+      "question": "Choose the correct verb tense for future fact:",
+      "options": [
+        "The sun rise in the east.",
+        "The sun rises in the east.",
+        "The sun will rise in the east.",
+        "The sun is rising in the east."
+      ],
+      "answer": 1,
+      "explanation": "Present simple for timetables/facts: 'rises'."
+    },
+    {
+      "question": "Select the correct reported question:",
+      "options": [
+        "He asked where I live.",
+        "He asked where did I live.",
+        "He asked where do I live.",
+        "He asked where living I."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order: 'where I live'."
+    }
+  ]
+}

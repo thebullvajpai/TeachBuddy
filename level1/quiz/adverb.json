@@ -1,0 +1,347 @@
+{
+  "topic": "Adverbs",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She sings beautiful.",
+        "She sings beautifully.",
+        "She beautifully sings good.",
+        "She is sings beautifully."
+      ],
+      "answer": 1,
+      "explanation": "Adverbs of manner usually end in '-ly' and modify verbs: 'sings beautifully'. [web:71][web:80]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He drives very careful.",
+        "He drives very carefully.",
+        "He very carefully drives good.",
+        "He is driving very careful."
+      ],
+      "answer": 1,
+      "explanation": "The adverb 'carefully' describes how he drives, and 'very' modifies the adverb. [web:68][web:71]"
+    },
+    {
+      "question": "Select the correct option to complete the sentence: 'I ______ forget my keys, but today I did.'",
+      "options": [
+        "always",
+        "often",
+        "rarely",
+        "usually"
+      ],
+      "answer": 2,
+      "explanation": "The contrast with 'but today I did' suggests something that almost never happens, so 'rarely' fits best. [web:71][web:80]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She speaks English fluent.",
+        "She speaks English fluently.",
+        "She fluently speaks English good.",
+        "She is fluent speaking Englishly."
+      ],
+      "answer": 1,
+      "explanation": "The adverb 'fluently' correctly modifies the verb 'speaks'. [web:68][web:80]"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "We will meet here tomorrow.",
+        "We will meet tomorrow here.",
+        "We will tomorrow meet here.",
+        "Tomorrow we will meet here at."
+      ],
+      "answer": 0,
+      "explanation": "A natural order is manner/place/time; 'here tomorrow' is correct and clear. [web:71]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He arrived late yesterday.",
+        "He arrived yesterday late.",
+        "He yesterday arrived late.",
+        "He late arrived yesterday."
+      ],
+      "answer": 0,
+      "explanation": "Adverbs of time typically come at the end: 'arrived late yesterday' is the most natural. [web:71][web:74]"
+    },
+    {
+      "question": "Select the correct option to complete the sentence: 'They have ______ finished their work.'",
+      "options": [
+        "yet",
+        "already",
+        "still",
+        "ever"
+      ],
+      "answer": 1,
+      "explanation": "'Already' fits positive sentences to show something happened earlier than expected: 'have already finished'. [web:68][web:71]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I have never been there.",
+        "I never have been there.",
+        "Never I have been there.",
+        "I have been never there."
+      ],
+      "answer": 0,
+      "explanation": "In present perfect, frequency adverbs usually go between 'have' and the past participle: 'have never been'. [web:71][web:80]"
+    },
+    {
+      "question": "Choose the correct option:",
+      "options": [
+        "He works hardly.",
+        "He hard works.",
+        "He works hard.",
+        "He is work hardly."
+      ],
+      "answer": 2,
+      "explanation": "'Hard' is the correct adverb here; 'hardly' means 'almost not', which changes the meaning. [web:72][web:79]"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "She studies hardly ever.",
+        "She hardly ever studies.",
+        "She ever hardly studies.",
+        "She studies ever hardly."
+      ],
+      "answer": 1,
+      "explanation": "The fixed expression is 'hardly ever' as an adverb of frequency, usually before the main verb. [web:71][web:72]"
+    },
+    {
+      "question": "Choose the correct option to complete the sentence: 'He answered the question very ______.'",
+      "options": [
+        "polite",
+        "politely",
+        "politeness",
+        "more polite"
+      ],
+      "answer": 1,
+      "explanation": "The adverb 'politely' modifies the verb 'answered'; 'very' intensifies the adverb. [web:68][web:79]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The children are playing outside happily.",
+        "The children are happily outside playing.",
+        "The children are playing happily outside.",
+        "Happily the children are outside playing."
+      ],
+      "answer": 2,
+      "explanation": "When there are two adverbs, a common order is manner then place: 'playing happily outside'. [web:71]"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "She almost has finished her homework.",
+        "She has almost finished her homework.",
+        "She has finished almost her homework.",
+        "Almost she has finished her homework."
+      ],
+      "answer": 1,
+      "explanation": "In perfect tenses, adverbs like 'almost' usually go between the auxiliary and the main verb: 'has almost finished'. [web:71][web:82]"
+    },
+    {
+      "question": "Choose the correct option:",
+      "options": [
+        "I completely agree with you.",
+        "I agree completely with you.",
+        "I agree with you completely.",
+        "All of the above are acceptable."
+      ],
+      "answer": 3,
+      "explanation": "Degree adverbs like 'completely' can appear before the verb or at the end; all three positions are natural here. [web:71]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He spoke very quietly so nobody could hear.",
+        "He spoke very quiet so nobody could hear.",
+        "He very quietly spoke so nobody could hear.",
+        "He spoke so very quiet that nobody could hear."
+      ],
+      "answer": 0,
+      "explanation": "'Quietly' is the correct adverb; 'very quietly' modifies the verb 'spoke'. [web:68][web:79]"
+    },
+    {
+      "question": "Select the best option: 'We ______ go out these days; we are too busy.'",
+      "options": [
+        "rarely",
+        "suddenly",
+        "carefully",
+        "nearly"
+      ],
+      "answer": 0,
+      "explanation": "An adverb of frequency fits the context of 'these days'; 'rarely' matches 'too busy'. [web:71][web:80]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Have you seen him lately?",
+        "Have you seen him late?",
+        "Did you lately see him?",
+        "Have you lately seen him yesterday?"
+      ],
+      "answer": 0,
+      "explanation": "'Lately' (recently) is commonly used with present perfect: 'Have you seen him lately?'. [web:71][web:79]"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "He almost failed hardly the exam.",
+        "He hardly almost failed the exam.",
+        "He almost failed the exam.",
+        "He failed almost the exam."
+      ],
+      "answer": 2,
+      "explanation": "The adverb 'almost' correctly modifies 'failed'; placing it before the verb is standard. [web:71][web:82]"
+    },
+    {
+      "question": "Choose the correct option to complete the sentence: 'They have lived here ______ 2010.'",
+      "options": [
+        "since",
+        "for",
+        "just",
+        "already"
+      ],
+      "answer": 0,
+      "explanation": "'Since' introduces a specific starting point in time (2010) with present perfect. [web:68][web:71]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "We will soon be there.",
+        "We will be there soonly.",
+        "We soonly will be there.",
+        "We will be soonly there."
+      ],
+      "answer": 0,
+      "explanation": "The adverb of time 'soon' is correct; 'soonly' is not a standard form. [web:68][web:80]"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "He spoke clear so everyone understood.",
+        "He spoke clearly so everyone understood.",
+        "He spoke clearly so everyone did understand.",
+        "He clearly spoke so everyone understoodly."
+      ],
+      "answer": 1,
+      "explanation": "Adverb 'clearly' modifies 'spoke' and correctly expresses manner. [web:68][web:79]"
+    },
+    {
+      "question": "Choose the correct option:",
+      "options": [
+        "She almost always is late.",
+        "She is almost always late.",
+        "She always almost is late.",
+        "She is always almost late for."
+      ],
+      "answer": 1,
+      "explanation": "Adverbs of frequency usually go between 'be' and the adjective: 'is almost always late'. [web:71][web:82]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He answered all the questions correct.",
+        "He answered all the questions correctly.",
+        "He correctly answered all the questions good.",
+        "He was answered all the questions correctly."
+      ],
+      "answer": 1,
+      "explanation": "The adverb 'correctly' modifies 'answered'; 'correct' would be an adjective. [web:72][web:81]"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "Usually I am going to the gym on Mondays.",
+        "I am usually going to the gym on Mondays.",
+        "I usually go to the gym on Mondays.",
+        "Usually I go to the gym now."
+      ],
+      "answer": 2,
+      "explanation": "Habitual actions use present simple; 'usually' is an adverb of frequency before the main verb: 'usually go'. [web:71][web:74]"
+    },
+    {
+      "question": "Choose the correct option:",
+      "options": [
+        "He nearly has finished his work.",
+        "He has nearly finished his work.",
+        "He has finished nearly his work.",
+        "Nearly he has finished his work."
+      ],
+      "answer": 1,
+      "explanation": "In perfect tenses, 'nearly' typically goes between the auxiliary and the main verb: 'has nearly finished'. [web:71][web:82]"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "They are still waiting outside.",
+        "They still are waiting outside.",
+        "Still they are waiting outside.",
+        "They are waiting still outside."
+      ],
+      "answer": 0,
+      "explanation": "With 'be + verb-ing', 'still' normally comes after the subject and before 'are': 'are still waiting'. [web:71]"
+    },
+    {
+      "question": "Choose the correct option:",
+      "options": [
+        "I saw her yesterday in the park.",
+        "I saw her in the park yesterday.",
+        "Yesterday I saw her in the park.",
+        "All of the above are possible."
+      ],
+      "answer": 3,
+      "explanation": "Adverbs of time and place can be placed flexibly; all three positions are acceptable and natural. [web:71][web:80]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She completely understood the problem.",
+        "She understood completely the problem.",
+        "Completely she understood the problem.",
+        "She understood the problem complete."
+      ],
+      "answer": 0,
+      "explanation": "Degree adverb 'completely' is natural before the verb phrase: 'completely understood'. [web:71][web:82]"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "I almost never eat breakfast.",
+        "I never almost eat breakfast.",
+        "Almost I never eat breakfast.",
+        "I eat almost never breakfast."
+      ],
+      "answer": 0,
+      "explanation": "Frequency adverters can be combined: 'almost never' is a fixed and natural sequence. [web:71][web:80]"
+    },
+    {
+      "question": "Choose the correct option:",
+      "options": [
+        "He answered me very fastly.",
+        "He answered me very fast.",
+        "He very fast answered me.",
+        "He answered very fastly me."
+      ],
+      "answer": 1,
+      "explanation": "'Fast' functions as both adjective and adverb; 'fastly' is not standard. [web:72][web:79]"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "She rarely is late for work.",
+        "She is rarely late for work.",
+        "Rarely she is late for work.",
+        "She is late rarely for work."
+      ],
+      "answer": 1,
+      "explanation": "With 'be + adjective', adverbs of frequency usually follow 'be': 'is rarely late'. [web:71][web:82]"
+    }
+  ]
+}

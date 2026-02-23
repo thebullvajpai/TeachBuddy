@@ -1,0 +1,374 @@
+{
+  "topic": "Conjunctions",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I wanted to go, but it was raining.",
+        "I wanted to go, but it rained.",
+        "I wanted to go but, it was raining.",
+        "I wanted to go but it was raining."
+      ],
+      "answer": 3,
+      "explanation": "Coordinating conjunction 'but' joins two independent clauses without a comma when short: 'but it was raining'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He studied hard, so he passed.",
+        "He studied hard so he passed.",
+        "He studied hard, so passed he.",
+        "He studied hard so passed he."
+      ],
+      "answer": 0,
+      "explanation": "'So' joins two independent clauses and requires a comma before it: 'studied hard, so he passed'."
+    },
+    {
+      "question": "Select the correct conjunction:",
+      "options": [
+        "She was tired, ______ she went to bed.",
+        "and",
+        "but",
+        "or",
+        "because"
+      ],
+      "answer": 2,
+      "explanation": "'So' (result) fits; the full sentence is 'tired, so she went to bed'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Do you want tea, or coffee?",
+        "Do you want tea or, coffee?",
+        "Do you want tea or coffee?",
+        "Do you want tea, or coffee?"
+      ],
+      "answer": 2,
+      "explanation": "No comma before 'or' in short alternative questions: 'tea or coffee?'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I like apples ______ oranges.",
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "'And' joins two similar items: 'apples and oranges'."
+    },
+    {
+      "question": "Select the correct subordinating conjunction:",
+      "options": [
+        "______ it was late, we stayed.",
+        "Although",
+        "Because",
+        "If",
+        "When"
+      ],
+      "answer": 0,
+      "explanation": "'Although' shows contrast: 'Although it was late, we stayed'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I will call you ______ I arrive.",
+        "when",
+        "because",
+        "or",
+        "and"
+      ],
+      "answer": 0,
+      "explanation": "'When' introduces time clauses: 'I will call you when I arrive'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He didn't come ______ he was sick.",
+        "because",
+        "so",
+        "but",
+        "or"
+      ],
+      "answer": 0,
+      "explanation": "'Because' gives reason: 'didn't come because he was sick'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "______ you study, you will fail.",
+        "If",
+        "Although",
+        "When",
+        "Because"
+      ],
+      "answer": 0,
+      "explanation": "'If' introduces condition: 'If you don't study, you will fail' (implied negative)."
+    },
+    {
+      "question": "Choose the correct pair of conjunctions:",
+      "options": [
+        "Not only he is smart, but also hardworking.",
+        "Not only is he smart, but also hardworking.",
+        "Not only he is smart but also, hardworking.",
+        "Not only is he smart but also hardworking."
+      ],
+      "answer": 1,
+      "explanation": "Inversion with 'not only': 'Not only is he smart, but he is also hardworking'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "______ raining, we went out.",
+        "Although",
+        "Because",
+        "So",
+        "Or"
+      ],
+      "answer": 0,
+      "explanation": "'Although' shows contrast despite the rain."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "She is rich ______ unhappy.",
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "answer": 1,
+      "explanation": "'But' shows contrast: 'rich but unhappy'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He was tired, ______ he finished the work.",
+        "and",
+        "but",
+        "or",
+        "because"
+      ],
+      "answer": 1,
+      "explanation": "'But' shows unexpected result despite being tired."
+    },
+    {
+      "question": "Select the correct conjunction for time:",
+      "options": [
+        "______ I finish, I will call you.",
+        "After",
+        "Because",
+        "Although",
+        "If"
+      ],
+      "answer": 0,
+      "explanation": "'After' indicates sequence: 'After I finish, I will call you'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Either you come, ______ you stay.",
+        "or",
+        "and",
+        "but",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "'Either... or' presents alternatives: 'Either you come, or you stay'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "______ he was poor, he was happy.",
+        "Although",
+        "Because",
+        "If",
+        "When"
+      ],
+      "answer": 0,
+      "explanation": "'Although' expresses contrast: 'Although he was poor, he was happy'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "I can't go out ______ I finish my homework.",
+        "until",
+        "because",
+        "or",
+        "and"
+      ],
+      "answer": 0,
+      "explanation": "'Until' indicates time condition: 'until I finish my homework'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She will pass ______ she studies.",
+        "if",
+        "because",
+        "although",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "'If' for condition: 'She will pass if she studies'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "______ you need help, call me.",
+        "If",
+        "Although",
+        "When",
+        "Because"
+      ],
+      "answer": 0,
+      "explanation": "'If' for conditional offers: 'If you need help, call me'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "We stayed inside ______ it was raining.",
+        "because",
+        "so",
+        "but",
+        "or"
+      ],
+      "answer": 0,
+      "explanation": "'Because' gives reason for the action."
+    },
+    {
+      "question": "Choose the correct correlative conjunction:",
+      "options": [
+        "Both he ______ she came.",
+        "and",
+        "or",
+        "but",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "'Both... and' joins two subjects: 'Both he and she came'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "______ I was young, I lived in Delhi.",
+        "When",
+        "Because",
+        "If",
+        "Although"
+      ],
+      "answer": 0,
+      "explanation": "'When' for past time clauses: 'When I was young, I lived in Delhi'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I like tea, ______ I prefer coffee.",
+        "but",
+        "and",
+        "or",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "'But' shows preference contrast: 'like tea, but prefer coffee'."
+    },
+    {
+      "question": "Select the correct conjunction:",
+      "options": [
+        "______ it was expensive, he bought it.",
+        "Although",
+        "Because",
+        "So",
+        "If"
+      ],
+      "answer": 0,
+      "explanation": "'Although' for concession (despite expense)."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "You can stay here, ______ you pay rent.",
+        "if",
+        "because",
+        "although",
+        "when"
+      ],
+      "answer": 0,
+      "explanation": "'If' for condition: 'if you pay rent'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He ran fast ______ he missed the bus.",
+        "so",
+        "because",
+        "but",
+        "or"
+      ],
+      "answer": 0,
+      "explanation": "'So' shows result: 'ran fast so he missed the bus' (implying 'but')."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "______ raining heavily, we cancelled the picnic.",
+        "It being",
+        "Because of",
+        "Although",
+        "If"
+      ],
+      "answer": 1,
+      "explanation": "'Because of' for reason with gerund/noun: 'Because of raining heavily'."
+    },
+    {
+      "question": "Choose the correct pair:",
+      "options": [
+        "Neither the teacher ______ the students knew the answer.",
+        "nor",
+        "or",
+        "and",
+        "but"
+      ],
+      "answer": 0,
+      "explanation": "'Neither... nor' for negative alternatives: 'Neither the teacher nor the students'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "______ you help me, I will do it alone.",
+        "If",
+        "Unless",
+        "Although",
+        "When"
+      ],
+      "answer": 1,
+      "explanation": "'Unless' means 'if not': 'Unless you help me, I will do it alone'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "He is tall ______ his brother is short.",
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "answer": 1,
+      "explanation": "'But' contrasts two facts: 'tall but his brother is short'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "______ the traffic was bad, we arrived on time.",
+        "Although",
+        "Because",
+        "If",
+        "When"
+      ],
+      "answer": 0,
+      "explanation": "'Although' shows unexpected positive result despite negative condition."
+    }
+  ]
+}

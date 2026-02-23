@@ -1,0 +1,347 @@
+{
+  "topic": "Pronouns",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct pronoun:",
+      "options": [
+        "This is she book.",
+        "This is her book.",
+        "This is hers book.",
+        "This is she book."
+      ],
+      "answer": 1,
+      "explanation": "'Her' is the possessive adjective before a noun: 'her book'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Give it to I.",
+        "Give it to me.",
+        "Give it to mine.",
+        "Give it to my."
+      ],
+      "answer": 1,
+      "explanation": "Object pronouns follow prepositions and verbs: 'Give it to me'."
+    },
+    {
+      "question": "Select the correct reflexive pronoun:",
+      "options": [
+        "I hurt myself.",
+        "I hurt himself.",
+        "I hurt yourself.",
+        "I hurt meself."
+      ],
+      "answer": 0,
+      "explanation": "'Myself' matches first person singular subject 'I'."
+    },
+    {
+      "question": "Choose the correct possessive pronoun:",
+      "options": [
+        "This book is mine.",
+        "This book is me.",
+        "This book is my.",
+        "This book is mines."
+      ],
+      "answer": 0,
+      "explanation": "'Mine' is a possessive pronoun standing alone (no noun after)."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She and me went to the store.",
+        "She and I went to the store.",
+        "Her and I went to the store.",
+        "She and him went to the store."
+      ],
+      "answer": 1,
+      "explanation": "'I' is the subject pronoun for compound subjects."
+    },
+    {
+      "question": "Select the correct pronoun:",
+      "options": [
+        "Them are my friends.",
+        "They are my friends.",
+        "Their are my friends.",
+        "Theirs are my friends."
+      ],
+      "answer": 1,
+      "explanation": "'They' is the subject pronoun before the verb 'are'."
+    },
+    {
+      "question": "Choose the correct reflexive pronoun:",
+      "options": [
+        "You should help yourself.",
+        "You should help himself.",
+        "You should help ourselves.",
+        "You should help yourselfs."
+      ],
+      "answer": 0,
+      "explanation": "'Yourself' matches second person singular/plural."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "This is the book of she.",
+        "This is her book.",
+        "This is hers book.",
+        "This is she book."
+      ],
+      "answer": 1,
+      "explanation": "'Her' (possessive adjective) + noun; not 'of she'."
+    },
+    {
+      "question": "Select the correct pronoun:",
+      "options": [
+        "Between you and I, it's true.",
+        "Between you and me, it's true.",
+        "Between you and him, it's true.",
+        "Between yours and me, it's true."
+      ],
+      "answer": 1,
+      "explanation": "Object pronouns after prepositions: 'you and me'."
+    },
+    {
+      "question": "Choose the correct possessive pronoun:",
+      "options": [
+        "That car is theirs.",
+        "That car is their.",
+        "That car is them.",
+        "That car is they's."
+      ],
+      "answer": 0,
+      "explanation": "'Theirs' stands alone as possessive pronoun."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Us are going to the park.",
+        "We are going to the park.",
+        "Our are going to the park.",
+        "Ours are going to the park."
+      ],
+      "answer": 1,
+      "explanation": "'We' is the subject pronoun."
+    },
+    {
+      "question": "Select the correct reflexive pronoun:",
+      "options": [
+        "They hurt themselves.",
+        "They hurt himself.",
+        "They hurt theirself.",
+        "They hurt themself."
+      ],
+      "answer": 0,
+      "explanation": "'Themselves' for third person plural."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "It is I who am responsible.",
+        "It is me who am responsible.",
+        "It is mine who am responsible.",
+        "It is my who am responsible."
+      ],
+      "answer": 0,
+      "explanation": "After 'to be' in formal cleft sentences, use subject pronoun 'I'."
+    },
+    {
+      "question": "Choose the correct pronoun:",
+      "options": [
+        "The winner was he.",
+        "The winner was him.",
+        "The winner was his.",
+        "The winner was heself."
+      ],
+      "answer": 0,
+      "explanation": "Subject pronoun after linking verb in formal style: 'was he'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "Him and his brother are tall.",
+        "He and his brother are tall.",
+        "His and his brother are tall.",
+        "He and him brother are tall."
+      ],
+      "answer": 1,
+      "explanation": "Subject pronouns in compound subjects: 'He and his brother'."
+    },
+    {
+      "question": "Choose the correct reflexive pronoun:",
+      "options": [
+        "She bought herself a dress.",
+        "She bought her a dress.",
+        "She bought herself dress.",
+        "She bought hers a dress."
+      ],
+      "answer": 0,
+      "explanation": "'Herself' as reflexive object."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "This is the house of we.",
+        "This is our house.",
+        "This is ours house.",
+        "This is we house."
+      ],
+      "answer": 1,
+      "explanation": "'Our' (possessive adjective) + noun."
+    },
+    {
+      "question": "Select the correct pronoun:",
+      "options": [
+        "Who is at the door?",
+        "Whom is at the door?",
+        "Whose is at the door?",
+        "Which is at the door?"
+      ],
+      "answer": 0,
+      "explanation": "'Who' as subject of the clause."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "To who did you give it?",
+        "To whom did you give it?",
+        "To whose did you give it?",
+        "To which did you give it?"
+      ],
+      "answer": 1,
+      "explanation": "'Whom' as object of preposition 'to'."
+    },
+    {
+      "question": "Choose the correct possessive:",
+      "options": [
+        "Is this yours book?",
+        "Is this your book?",
+        "Is this you book?",
+        "Is this yours' book?"
+      ],
+      "answer": 1,
+      "explanation": "'Your' (possessive adjective) before noun."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "Let you and I decide.",
+        "Let you and me decide.",
+        "Let yours and me decide.",
+        "Let your and I decide."
+      ],
+      "answer": 1,
+      "explanation": "'Me' as object of imperative 'let'."
+    },
+    {
+      "question": "Choose the correct reflexive:",
+      "options": [
+        "I myself did it.",
+        "Me myself did it.",
+        "Mine myself did it.",
+        "My myself did it."
+      ],
+      "answer": 0,
+      "explanation": "'Myself' for emphasis with 'I'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The dog chased it's tail.",
+        "The dog chased its tail.",
+        "The dog chased it is tail.",
+        "The dog chased it tail."
+      ],
+      "answer": 1,
+      "explanation": "'Its' (possessive); no apostrophe for possession."
+    },
+    {
+      "question": "Select the correct pronoun:",
+      "options": [
+        "Whose phone is this?",
+        "Who's phone is this?",
+        "Whos phone is this?",
+        "Who is phone is this?"
+      ],
+      "answer": 0,
+      "explanation": "'Whose' for possession questions."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Neither of them are ready.",
+        "Neither of them is ready.",
+        "Each of them are ready.",
+        "Someone of them is ready."
+      ],
+      "answer": 1,
+      "explanation": "'Neither... is' (singular verb)."
+    },
+    {
+      "question": "Choose the correct pronoun:",
+      "options": [
+        "Everyone should bring their book.",
+        "Everyone should bring his book.",
+        "Everyone should bring he book.",
+        "Everyone should bring theirs book."
+      ],
+      "answer": 0,
+      "explanation": "'Their' as gender-neutral singular with indefinite pronouns."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "This is between you and he.",
+        "This is between you and him.",
+        "This is between you and his.",
+        "This is between you and heself."
+      ],
+      "answer": 1,
+      "explanation": "Object pronouns after prepositions: 'you and him'."
+    },
+    {
+      "question": "Choose the correct reflexive:",
+      "options": [
+        "We enjoyed ourselves.",
+        "We enjoyed ourself.",
+        "We enjoyed usself.",
+        "We enjoyed ours."
+      ],
+      "answer": 0,
+      "explanation": "'Ourselves' for first person plural."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "It was she who won.",
+        "It was her who won.",
+        "It was hers who won.",
+        "It was sheself who won."
+      ],
+      "answer": 0,
+      "explanation": "Subject pronoun in cleft sentence: 'It was she'."
+    },
+    {
+      "question": "Select the correct possessive:",
+      "options": [
+        "The house is ours.",
+        "The house is our.",
+        "The house is us.",
+        "The house is ours'."
+      ],
+      "answer": 0,
+      "explanation": "'Ours' as possessive pronoun alone."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Himself he did it.",
+        "He did it himself.",
+        "He himself did it.",
+        "His did it himself."
+      ],
+      "answer": 2,
+      "explanation": "'Himself' for emphasis after subject."
+    }
+  ]
+}

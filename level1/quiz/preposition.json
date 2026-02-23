@@ -1,0 +1,376 @@
+{
+  "topic": "Prepositions",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct preposition:",
+      "options": [
+        "She is afraid ___ spiders.",
+        "of",
+        "from",
+        "with",
+        "by"
+      ],
+      "answer": 0,
+      "explanation": "The correct collocation is 'afraid of' something."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I am interested on music.",
+        "I am interested in music.",
+        "I am interested at music.",
+        "I am interested for music."
+      ],
+      "answer": 1,
+      "explanation": "'Interested in' is the standard phrase."
+    },
+    {
+      "question": "Select the correct preposition for time:",
+      "options": [
+        "I arrive ___ 9 a.m.",
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "'At' is used for specific clock times: 'at 9 a.m.'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He is good in English.",
+        "He is good at English.",
+        "He is good on English.",
+        "He is good for English."
+      ],
+      "answer": 1,
+      "explanation": "'Good at' is used for skills and subjects."
+    },
+    {
+      "question": "Choose the correct preposition for place:",
+      "options": [
+        "The book is ___ the table.",
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": 0,
+      "explanation": "'On' for surfaces: 'on the table'."
+    },
+    {
+      "question": "Select the correct preposition:",
+      "options": [
+        "We live ___ a small village.",
+        "at",
+        "in",
+        "on",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "'In' for enclosed spaces and villages/towns."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She died ___ cancer.",
+        "of",
+        "from",
+        "with",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "'Die from' a disease or cause."
+    },
+    {
+      "question": "Choose the correct preposition for time duration:",
+      "options": [
+        "I have lived here ___ three years.",
+        "since",
+        "during",
+        "for",
+        "ago"
+      ],
+      "answer": 2,
+      "explanation": "'For' indicates duration: 'for three years'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "He apologized ___ being late.",
+        "for",
+        "to",
+        "about",
+        "on"
+      ],
+      "answer": 0,
+      "explanation": "'Apologize for' something (gerund)."
+    },
+    {
+      "question": "Choose the correct preposition:",
+      "options": [
+        "The meeting starts ___ Monday.",
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "'On' for days of the week: 'on Monday'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I am waiting ___ my friend.",
+        "to",
+        "for",
+        "at",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "'Wait for' someone."
+    },
+    {
+      "question": "Select the correct preposition for movement:",
+      "options": [
+        "She walked ___ the room.",
+        "into",
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "'Into' for movement toward an enclosed space."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He depends ___ his parents.",
+        "on",
+        "of",
+        "from",
+        "in"
+      ],
+      "answer": 0,
+      "explanation": "'Depend on' someone."
+    },
+    {
+      "question": "Choose the correct preposition:",
+      "options": [
+        "They arrived ___ the airport.",
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "answer": 1,
+      "explanation": "'At' for specific points like airports."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "She is married ___ a doctor.",
+        "with",
+        "to",
+        "for",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "'Married to' someone."
+    },
+    {
+      "question": "Choose the correct preposition for months:",
+      "options": [
+        "My birthday is ___ July.",
+        "on",
+        "at",
+        "in",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "'In' for months and years: 'in July'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I am tired ___ working.",
+        "of",
+        "from",
+        "with",
+        "by"
+      ],
+      "answer": 0,
+      "explanation": "'Tired of' + gerund."
+    },
+    {
+      "question": "Select the correct preposition:",
+      "options": [
+        "The cat jumped ___ the wall.",
+        "over",
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "'Over' for movement above and across."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He is fond ___ chocolates.",
+        "of",
+        "for",
+        "with",
+        "in"
+      ],
+      "answer": 0,
+      "explanation": "'Fond of' something."
+    },
+    {
+      "question": "Choose the correct preposition for transport:",
+      "options": [
+        "I travel ___ train.",
+        "by",
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "'By' for all transport modes: 'by train'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "She is angry ___ me.",
+        "with",
+        "at",
+        "on",
+        "to"
+      ],
+      "answer": 1,
+      "explanation": "'Angry at' someone (American); 'angry with' also common."
+    },
+    {
+      "question": "Choose the correct preposition:",
+      "options": [
+        "We met ___ the party.",
+        "at",
+        "in",
+        "on",
+        "to"
+      ],
+      "answer": 0,
+      "explanation": "'At' for events: 'at the party'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He succeeded ___ hard work.",
+        "by",
+        "with",
+        "from",
+        "in"
+      ],
+      "answer": 0,
+      "explanation": "'Succeed by' means through a method."
+    },
+    {
+      "question": "Select the correct preposition for future time:",
+      "options": [
+        "I will finish ___ Friday.",
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": 3,
+      "explanation": "'By' means no later than: 'by Friday'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She is similar ___ her sister.",
+        "to",
+        "with",
+        "as",
+        "like"
+      ],
+      "answer": 0,
+      "explanation": "'Similar to' for comparison."
+    },
+    {
+      "question": "Choose the correct preposition:",
+      "options": [
+        "The letter is ___ the table.",
+        "under",
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "'Under' for directly below."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "I look forward ___ seeing you.",
+        "to",
+        "for",
+        "in",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "'Look forward to' + gerund."
+    },
+    {
+      "question": "Choose the correct preposition for seasons:",
+      "options": [
+        "It is hot ___ summer.",
+        "on",
+        "at",
+        "in",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "'In' for seasons: 'in summer'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He is responsible ___ the project.",
+        "for",
+        "of",
+        "to",
+        "with"
+      ],
+      "answer": 0,
+      "explanation": "'Responsible for' something."
+    },
+    {
+      "question": "Select the correct preposition:",
+      "options": [
+        "She is allergic ___ nuts.",
+        "to",
+        "for",
+        "with",
+        "from"
+      ],
+      "answer": 0,
+      "explanation": "'Allergic to' something."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "We arrived ___ time for the meeting.",
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "'On time' means punctual."
+    }
+  ]
+}

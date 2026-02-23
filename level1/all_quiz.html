@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Grammar Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .quiz-box {
+      background: #fff;
+      padding: 25px;
+      width: 420px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      margin-bottom: 15px;
+      color: #333;
+    }
+
+    .option {
+      background: #eee;
+      padding: 10px;
+      margin: 8px 0;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .option:hover {
+      background: #dcdcdc;
+    }
+
+    .correct {
+      background: #b7f7c2;
+    }
+
+    .wrong {
+      background: #f7b7b7;
+    }
+
+    .explanation {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #555;
+    }
+
+    button {
+      margin-top: 15px;
+      padding: 8px 15px;
+      border: none;
+      background: #4CAF50;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:disabled {
+      background: gray;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="quiz-box" id="quizBox">
+    <h2 id="question">Loading...</h2>
+    <div id="options"></div>
+    <div class="explanation" id="explanation"></div>
+    <button id="nextBtn" disabled>Next Question</button>
+  </div>
+
+  <script>
+    let questions = [];
+    let usedIndexes = [];
+    let currentQuestion = null;
+
+    let score = 0;
+    let totalAttempted = 0;
+
+    const PASS_PERCENTAGE = 70;
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const topicRaw = urlParams.get("topic");
+
+    if (!topicRaw) {
+      alert("No quiz topic selected!");
+      // Prevent errors below and send user back.
+      window.location.href = "learning.html";
+      throw new Error("Missing topic parameter");
+    }
+
+    const topic = topicRaw.trim();
+
+    // Must match the order used on learning page (learning.js)
+    const TOPIC_ORDER = [
+      "noun",
+      "pronoun",
+      "verb",
+      "adjective",
+      "adverb",
+      "preposition",
+      "article",
+      "conjuction",
+      "interjection",
+      "sentence_formation",
+      "tense",
+    ];
+
+    const quizFile = `quiz/${topic}.json`;
+
+    fetch(quizFile)
+      .then(res => res.json())
+      .then(data => {
+        questions = data.questions;
+        loadQuestion();
+      })
+      .catch((e) => {
+        console.error(e)
+        document.getElementById("question").innerText = "❌ Quiz not found!";
+      });
+
+    function loadQuestion() {
+      document.getElementById("explanation").innerText = "";
+      document.getElementById("nextBtn").disabled = true;
+
+      if (usedIndexes.length === questions.length) {
+        const scorePercentage = totalAttempted ? Math.round((score / totalAttempted) * 100) : 0;
+        quizFinished(scorePercentage, topic);
+        return;
+      }
+
+      let index;
+      do {
+        index = Math.floor(Math.random() * questions.length);
+      } while (usedIndexes.includes(index));
+
+      usedIndexes.push(index);
+      currentQuestion = questions[index];
+
+      document.getElementById("question").innerText =
+        currentQuestion.question;
+
+      const optionsDiv = document.getElementById("options");
+      optionsDiv.innerHTML = "";
+
+      currentQuestion.options.forEach((opt, i) => {
+        const div = document.createElement("div");
+        div.className = "option";
+        div.innerText = opt;
+        div.onclick = () => checkAnswer(div, i);
+        optionsDiv.appendChild(div);
+      });
+    }
+
+    function checkAnswer(selectedDiv, selectedIndex) {
+      const options = document.querySelectorAll(".option");
+
+      options.forEach((opt, i) => {
+        opt.onclick = null;
+        if (i === currentQuestion.answer) opt.classList.add("correct");
+      });
+
+      if (selectedIndex === currentQuestion.answer) {
+        score++;
+      } else {
+        selectedDiv.classList.add("wrong");
+      }
+
+      totalAttempted++;
+
+      document.getElementById("explanation").innerText =
+        "Explanation: " + currentQuestion.explanation;
+
+      document.getElementById("nextBtn").disabled = false;
+    }
+
+    document.getElementById("nextBtn").onclick = loadQuestion;
+
+    function quizFinished(scorePercentage, topic) {
+      const quizBox = document.getElementById("quizBox");
+
+    quizBox.innerHTML = `<h2>🎉 Quiz Completed!</h2>
+    <p>Your Score: <strong>${scorePercentage}%</strong></p>
+  `;
+
+      if (scorePercentage >= PASS_PERCENTAGE) {
+        localStorage.setItem("level1_completed", "true");
+        localStorage.setItem(`progress_${topic}`, "completed");
+
+        // Unlock the next topic (and keep the unlock state monotonic).
+        const currentIndex = TOPIC_ORDER.indexOf(topic);
+        if (currentIndex !== -1) {
+          const storedUnlocked = parseInt(localStorage.getItem("unlockedIndex") || "0", 10);
+          const safeStored = Number.isNaN(storedUnlocked) ? 0 : storedUnlocked;
+          const nextUnlocked = Math.max(safeStored, currentIndex + 1);
+          localStorage.setItem("unlockedIndex", String(nextUnlocked));
+        }
+
+        quizBox.innerHTML += `
+      <button onclick="location.href='learning.html'">
+        ➡️ Move to Next Topic
+      </button>
+    `;
+      } else {
+        quizBox.innerHTML += `
+      <p style="color:red">You need at least 70% to unlock next topic.</p>
+      <button onclick="location.reload()">🔁 Retry Quiz</button>
+    `;
+      }
+    }
+  </script>
+
+
+
+</body>
+
+</html>

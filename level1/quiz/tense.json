@@ -1,0 +1,336 @@
+{
+  "topic": "Tenses",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She go to school every day.",
+        "She goes to school every day.",
+        "She going to school every day.",
+        "She is go to school every day."
+      ],
+      "answer": 1,
+      "explanation": "In present simple tense, third person singular (she/he/it) takes 's/es' with the verb: 'goes'."
+    },
+    {
+      "question": "Identify the correct past tense sentence:",
+      "options": [
+        "I go to the market yesterday.",
+        "I went to the market yesterday.",
+        "I was go to the market yesterday.",
+        "I had go to the market yesterday."
+      ],
+      "answer": 1,
+      "explanation": "'Went' is the simple past form of 'go', used with time expressions like 'yesterday'."
+    },
+    {
+      "question": "Choose the correct present continuous sentence:",
+      "options": [
+        "He is play football now.",
+        "He playing football now.",
+        "He is playing football now.",
+        "He are playing football now."
+      ],
+      "answer": 2,
+      "explanation": "Present continuous uses 'am/is/are + verb-ing': 'He is playing football now.'"
+    },
+    {
+      "question": "Select the correct future 'will' sentence:",
+      "options": [
+        "I will going to the party tomorrow.",
+        "I will go to the party tomorrow.",
+        "I will went to the party tomorrow.",
+        "I will gone to the party tomorrow."
+      ],
+      "answer": 1,
+      "explanation": "With 'will', use the base form of the verb: 'will go'."
+    },
+    {
+      "question": "Choose the correct present perfect sentence:",
+      "options": [
+        "She has finished her homework.",
+        "She have finished her homework.",
+        "She has finish her homework.",
+        "She had finished her homework now."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect uses 'has/have + past participle'; 'has finished' is correct for 'she'."
+    },
+    {
+      "question": "Identify the correct past continuous sentence:",
+      "options": [
+        "They was playing when I arrived.",
+        "They were playing when I arrived.",
+        "They are playing when I arrived.",
+        "They played when I was arrive."
+      ],
+      "answer": 1,
+      "explanation": "Past continuous uses 'was/were + verb-ing'; with 'they' use 'were playing'."
+    },
+    {
+      "question": "Choose the correct sentence for a habit:",
+      "options": [
+        "He is smoking every day.",
+        "He smokes every day.",
+        "He smoked every day now.",
+        "He has smoked every day now."
+      ],
+      "answer": 1,
+      "explanation": "Habits in the present are expressed with present simple: 'He smokes every day.'"
+    },
+    {
+      "question": "Select the correct past perfect sentence:",
+      "options": [
+        "When I arrived, he left.",
+        "When I arrived, he has left.",
+        "When I arrived, he had left.",
+        "When I arrived, he was left."
+      ],
+      "answer": 2,
+      "explanation": "Past perfect ('had left') shows an action finished before another past action ('arrived')."
+    },
+    {
+      "question": "Choose the correct future 'going to' sentence:",
+      "options": [
+        "We are going to visit them next week.",
+        "We going to visit them next week.",
+        "We will going to visit them next week.",
+        "We are visit them next week."
+      ],
+      "answer": 0,
+      "explanation": "The 'going to' future uses 'am/is/are going to + base verb': 'are going to visit'."
+    },
+    {
+      "question": "Identify the correct present simple question:",
+      "options": [
+        "Do she like coffee?",
+        "Does she likes coffee?",
+        "Does she like coffee?",
+        "Do she likes coffee?"
+      ],
+      "answer": 2,
+      "explanation": "With 'does', the main verb stays in base form: 'Does she like coffee?'."
+    },
+    {
+      "question": "Choose the correct present continuous question:",
+      "options": [
+        "Is you coming with us?",
+        "Are you coming with us?",
+        "Do you coming with us?",
+        "You are coming with us?"
+      ],
+      "answer": 1,
+      "explanation": "Present continuous questions use 'am/is/are' before the subject: 'Are you coming... ?'."
+    },
+    {
+      "question": "Select the correct use of present perfect for life experience:",
+      "options": [
+        "I have seen that movie last week.",
+        "I saw that movie already.",
+        "I have already seen that movie.",
+        "I already see that movie."
+      ],
+      "answer": 2,
+      "explanation": "Present perfect with 'already' uses 'have/has + past participle': 'have already seen'."
+    },
+    {
+      "question": "Choose the correct past simple negative sentence:",
+      "options": [
+        "She didn't went to work yesterday.",
+        "She not went to work yesterday.",
+        "She didn't go to work yesterday.",
+        "She doesn't went to work yesterday."
+      ],
+      "answer": 2,
+      "explanation": "With 'didn't', the main verb remains in base form: 'didn't go'."
+    },
+    {
+      "question": "Identify the correct future simple question:",
+      "options": [
+        "Will you come tomorrow?",
+        "Do you will come tomorrow?",
+        "Are you will come tomorrow?",
+        "You will come tomorrow?"
+      ],
+      "answer": 0,
+      "explanation": "Future simple questions use 'Will + subject + base verb': 'Will you come tomorrow?'."
+    },
+    {
+      "question": "Choose the correct present perfect continuous sentence:",
+      "options": [
+        "He has been work here since 2019.",
+        "He has been working here since 2019.",
+        "He is working here since 2019.",
+        "He was working here since 2019."
+      ],
+      "answer": 1,
+      "explanation": "Present perfect continuous uses 'has/have been + verb-ing' for actions from past until now."
+    },
+    {
+      "question": "Select the correct past continuous with interruption:",
+      "options": [
+        "I cooked dinner when the phone rang.",
+        "I was cooked dinner when the phone rang.",
+        "I was cooking dinner when the phone rang.",
+        "I cooking dinner when the phone rang."
+      ],
+      "answer": 2,
+      "explanation": "An action in progress interrupted by another uses past continuous + past simple: 'was cooking' + 'rang'."
+    },
+    {
+      "question": "Choose the correct mixed tenses sentence:",
+      "options": [
+        "I am usually getting up at 6 a.m.",
+        "I usually get up at 6 a.m.",
+        "I usually am getting up at 6 a.m.",
+        "I was usually get up at 6 a.m."
+      ],
+      "answer": 1,
+      "explanation": "Habits use present simple, not present continuous: 'I usually get up at 6 a.m.'."
+    },
+    {
+      "question": "Identify the correct sentence for a fixed future timetable:",
+      "options": [
+        "The train will leave at 7 p.m.",
+        "The train leaves at 7 p.m.",
+        "The train is leaving at 7 p.m. yesterday.",
+        "The train left at 7 p.m. tomorrow."
+      ],
+      "answer": 1,
+      "explanation": "Fixed schedules can be expressed with present simple: 'The train leaves at 7 p.m.'."
+    },
+    {
+      "question": "Choose the correct tense for an action completed just now:",
+      "options": [
+        "I just finished my homework.",
+        "I have just finish my homework.",
+        "I have just finished my homework.",
+        "I just have finished my homework yesterday."
+      ],
+      "answer": 2,
+      "explanation": "Recent completion often uses present perfect: 'have just finished'."
+    },
+    {
+      "question": "Select the correct sentence showing a long‑term habit in the past:",
+      "options": [
+        "We were used to play here as kids.",
+        "We used to playing here as kids.",
+        "We used to play here as kids.",
+        "We are used to play here as kids."
+      ],
+      "answer": 2,
+      "explanation": "'Used to + base verb' expresses a past habit: 'used to play'."
+    },
+    {
+      "question": "Choose the correct tense for a decision made at the moment of speaking:",
+      "options": [
+        "I am going to open the window.",
+        "I will open the window.",
+        "I opened the window.",
+        "I have opened the window."
+      ],
+      "answer": 1,
+      "explanation": "Spontaneous decisions are usually expressed with 'will + base verb'."
+    },
+    {
+      "question": "Identify the correct sentence for a planned future action:",
+      "options": [
+        "I think I will visit my parents next weekend.",
+        "I am going to visit my parents next weekend.",
+        "I visit my parents next weekend.",
+        "I visited my parents next weekend."
+      ],
+      "answer": 1,
+      "explanation": "'Be going to' is used for plans or intentions: 'am going to visit'."
+    },
+    {
+      "question": "Choose the correct past perfect continuous sentence:",
+      "options": [
+        "She had been waiting for an hour when the bus arrived.",
+        "She has been waiting for an hour when the bus arrived.",
+        "She was waiting for an hour when the bus had arrived.",
+        "She had waited for an hour when the bus was arriving."
+      ],
+      "answer": 0,
+      "explanation": "Past perfect continuous ('had been waiting') shows a long action before another past event."
+    },
+    {
+      "question": "Select the correct sentence contrasting present simple and present continuous:",
+      "options": [
+        "Right now, I read a book, but usually I am watching TV.",
+        "Right now, I am reading a book, but usually I watch TV.",
+        "Right now, I read a book, but usually I watch TV.",
+        "Right now, I am reading a book, but usually I am watch TV."
+      ],
+      "answer": 1,
+      "explanation": "Use present continuous for 'right now' and present simple for habits: 'am reading' / 'usually I watch'."
+    },
+    {
+      "question": "Choose the correct tense to describe something true for a long time and still true:",
+      "options": [
+        "He lives in Mumbai for ten years.",
+        "He is living in Mumbai for ten years.",
+        "He has lived in Mumbai for ten years.",
+        "He lived in Mumbai for ten years and still lives there."
+      ],
+      "answer": 2,
+      "explanation": "Present perfect ('has lived') is used for actions that started in the past and continue to now."
+    },
+    {
+      "question": "Identify the correct future continuous sentence:",
+      "options": [
+        "This time tomorrow, I will work.",
+        "This time tomorrow, I will be working.",
+        "This time tomorrow, I am working.",
+        "This time tomorrow, I will working."
+      ],
+      "answer": 1,
+      "explanation": "Future continuous uses 'will be + verb-ing' to show an action in progress at a future time."
+    },
+    {
+      "question": "Choose the correct sentence to express a scheduled future using present continuous:",
+      "options": [
+        "I am meeting the manager at 5 p.m. tomorrow.",
+        "I meet the manager at 5 p.m. tomorrow.",
+        "I will meeting the manager at 5 p.m. tomorrow.",
+        "I am going the manager at 5 p.m. tomorrow."
+      ],
+      "answer": 0,
+      "explanation": "Present continuous can express personal fixed future arrangements: 'I am meeting...'."
+    },
+    {
+      "question": "Select the correct sentence showing a general truth:",
+      "options": [
+        "Water is boiling at 100 degrees Celsius.",
+        "Water boils at 100 degrees Celsius.",
+        "Water is boils at 100 degrees Celsius.",
+        "Water boiled at 100 degrees Celsius always."
+      ],
+      "answer": 1,
+      "explanation": "General truths and facts are expressed in present simple: 'Water boils at 100 degrees Celsius.'"
+    },
+    {
+      "question": "Choose the correct tense for an action that finished before now with no time given:",
+      "options": [
+        "I finished my homework.",
+        "I have finished my homework.",
+        "I was finished my homework.",
+        "I had finished my homework now."
+      ],
+      "answer": 1,
+      "explanation": "Without a specific past time, present perfect ('have finished') is preferred to show completion before now."
+    },
+    {
+      "question": "Identify the correct mixed tenses sentence:",
+      "options": [
+        "I didn't see him since Monday.",
+        "I haven't seen him since Monday.",
+        "I don't see him since Monday.",
+        "I am not seeing him since Monday."
+      ],
+      "answer": 1,
+      "explanation": "With 'since' and a point in time until now, present perfect is used: 'haven't seen'."
+    }
+  ]
+}

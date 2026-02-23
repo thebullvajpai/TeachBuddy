@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Learning Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    #topicsContainer {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .topic-card {
+      border: 1px solid #ccc;
+      padding: 15px;
+      border-radius: 8px;
+      background: #f9f9f9;
+    }
+
+    .topic-card button {
+      margin-right: 8px;
+      margin-top: 10px;
+    }
+
+    .locked {
+      opacity: 0.5;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>📘 Your Learning Path</h1>
+  <p>Complete each topic and score at least 70% to unlock the next one.</p>
+
+  <!-- 🔥 THIS WAS MISSING -->
+  <div id="topicsContainer"></div>
+  <div><button onclick=" window.location.href='../level2/level2_dashboard.html'">go to next level</button></div>
+
+  <script src="learning.js"></script>
+</body>
+
+</html>

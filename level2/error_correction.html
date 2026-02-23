@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error Correction Practice</title>
+
+<style>
+body{
+    font-family: Arial;
+    background:#f2f4f7;
+    text-align:center;
+}
+
+.box{
+    background:white;
+    width:600px;
+    margin:80px auto;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+input{
+    width:80%;
+    padding:10px;
+    margin-top:15px;
+}
+
+button{
+    padding:10px 20px;
+    margin-top:15px;
+    cursor:pointer;
+}
+
+#result{
+    margin-top:20px;
+    font-weight:bold;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+<h2>Correct the Sentence</h2>
+<h6>(Don't forget the punctuations)</h6>
+
+<p id="sentence"></p>
+
+<input type="text" id="userAnswer" placeholder="Type corrected sentence">
+
+<br>
+<button onclick="checkAnswer()">Check</button>
+<button onclick="nextQuestion()">Next</button>
+
+<p id="result"></p>
+</div>
+
+<script>
+let questions=[];
+let currentIndex=0;
+
+fetch('data/error_correction.json')
+.then(res=>res.json())
+.then(data=>{
+    questions=data.questions;
+    loadQuestion();
+});
+
+function loadQuestion(){
+    document.getElementById("sentence").innerText =
+        questions[currentIndex].sentence;
+
+    document.getElementById("userAnswer").value="";
+    document.getElementById("result").innerText="";
+}
+
+function checkAnswer(){
+    const user =
+        document.getElementById("userAnswer").value.trim().toLowerCase();
+
+    const correct =
+        questions[currentIndex].correct.trim().toLowerCase();
+
+    if(user === correct){
+        document.getElementById("result").innerText="Correct!";
+    }else{
+        document.getElementById("result").innerText=
+            "Wrong! Correct: " + questions[currentIndex].correct;
+    }
+}
+
+function nextQuestion(){
+    currentIndex++;
+    if(currentIndex >= questions.length){
+        currentIndex=0;
+    }
+    loadQuestion();
+}
+</script>
+
+</body>
+</html>

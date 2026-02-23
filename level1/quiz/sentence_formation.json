@@ -1,0 +1,314 @@
+{
+  "topic": "Sentence Formation",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct sentence order:",
+      "options": [
+        "Quickly she ran to the station.",
+        "She ran quickly to the station.",
+        "She to the station ran quickly.",
+        "Ran she quickly to the station."
+      ],
+      "answer": 1,
+      "explanation": "Standard SVO order: Subject + Verb + Adverb + Object/Place."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "In the park playing were children.",
+        "Children were playing in the park.",
+        "Playing children were in the park.",
+        "Were in the park playing children."
+      ],
+      "answer": 1,
+      "explanation": "Subject + auxiliary + main verb + place: 'Children were playing in the park'."
+    },
+    {
+      "question": "Select the correct word order:",
+      "options": [
+        "A beautiful big old house.",
+        "An old big beautiful house.",
+        "A big old beautiful house.",
+        "Beautiful old a big house."
+      ],
+      "answer": 2,
+      "explanation": "Adjective order: opinion + size + age + shape + color + origin + material + noun."
+    },
+    {
+      "question": "Choose the correct question form:",
+      "options": [
+        "Where you are going?",
+        "You are going where?",
+        "Where are you going?",
+        "Are you going where?"
+      ],
+      "answer": 2,
+      "explanation": "Wh-word + auxiliary + subject + main verb: 'Where are you going?'"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Very she was tired after the long journey.",
+        "She was very tired after the long journey.",
+        "Tired very she was after the long journey.",
+        "After the long journey she was very tired."
+      ],
+      "answer": 1,
+      "explanation": "Subject + verb + adverb + adjective: 'She was very tired'."
+    },
+    {
+      "question": "Select the correct order:",
+      "options": [
+        "He yesterday to the market went.",
+        "Yesterday he went to the market.",
+        "To the market yesterday he went.",
+        "He to the market went yesterday."
+      ],
+      "answer": 1,
+      "explanation": "Time adverb can come first or end: 'Yesterday he went to the market' is natural."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The book interesting I found.",
+        "I found the book interesting.",
+        "Interesting the book I found.",
+        "Found I the book interesting."
+      ],
+      "answer": 1,
+      "explanation": "'Find + object + adjective' pattern: 'I found the book interesting'."
+    },
+    {
+      "question": "Choose the correct comparative sentence:",
+      "options": [
+        "This car more expensive is than that one.",
+        "This car is more expensive than that one.",
+        "More expensive this car is than that one.",
+        "Than that one this car is more expensive."
+      ],
+      "answer": 1,
+      "explanation": "Subject + verb + comparative adjective + 'than': standard order."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "Slowly walking was he home.",
+        "He was walking slowly home.",
+        "Home walking slowly was he.",
+        "Walking he was slowly home."
+      ],
+      "answer": 1,
+      "explanation": "Subject + was + verb-ing + adverb + direction."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Coffee I prefer tea to.",
+        "I prefer coffee to tea.",
+        "To tea I prefer coffee.",
+        "Prefer I coffee to tea."
+      ],
+      "answer": 1,
+      "explanation": "'Prefer A to B': Subject + verb + object1 + 'to' + object2."
+    },
+    {
+      "question": "Select the correct order for adjectives:",
+      "options": [
+        "Italian wooden old beautiful table.",
+        "Beautiful old wooden Italian table.",
+        "Old beautiful Italian wooden table.",
+        "A beautiful old Italian wooden table."
+      ],
+      "answer": 3,
+      "explanation": "Article + opinion + age + origin + material + noun."
+    },
+    {
+      "question": "Choose the correct passive sentence:",
+      "options": [
+        "By the chef was prepared the meal.",
+        "The meal was prepared by the chef.",
+        "Prepared was the meal by the chef.",
+        "The chef by prepared was the meal."
+      ],
+      "answer": 1,
+      "explanation": "Subject + was + past participle + 'by' + agent."
+    },
+    {
+      "question": "Choose the correct question:",
+      "options": [
+        "How much does cost this shirt?",
+        "How much this shirt does cost?",
+        "How much does this shirt cost?",
+        "Does how much cost this shirt?"
+      ],
+      "answer": 2,
+      "explanation": "Wh-word + auxiliary + subject + main verb."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "Every day she goes gym to.",
+        "She goes to the gym every day.",
+        "To gym she goes every day.",
+        "Every day to the gym she goes."
+      ],
+      "answer": 1,
+      "explanation": "Subject + verb + direction + time adverb."
+    },
+    {
+      "question": "Choose the correct conditional sentence:",
+      "options": [
+        "If rains it, we will stay home.",
+        "If it rains, we will stay home.",
+        "We will stay home if it rains.",
+        "Rains if it, home we stay."
+      ],
+      "answer": 1,
+      "explanation": "If + subject + verb, main clause."
+    },
+    {
+      "question": "Choose the correct reported speech:",
+      "options": [
+        "'I am tired,' she said she was.",
+        "She said that she was tired.",
+        "She was tired she said that.",
+        "Tired she said that she was."
+      ],
+      "answer": 1,
+      "explanation": "Subject + said + 'that' + new tense: 'She said that she was tired'."
+    },
+    {
+      "question": "Select the correct adverb position:",
+      "options": [
+        "He carefully drove car the.",
+        "He drove the car carefully.",
+        "Carefully he drove the car.",
+        "The car he drove carefully."
+      ],
+      "answer": 1,
+      "explanation": "Subject + verb + object + adverb of manner."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Not only intelligent he is but also kind.",
+        "He is not only intelligent but also kind.",
+        "Intelligent he is not only but also kind.",
+        "Kind and intelligent not only he is."
+      ],
+      "answer": 1,
+      "explanation": "'Not only... but also' with subject + verb first."
+    },
+    {
+      "question": "Choose the correct relative clause:",
+      "options": [
+        "The man who lives next door is friendly.",
+        "Who lives next door the man is friendly.",
+        "Friendly is the man who lives next door.",
+        "Next door lives who the man is friendly."
+      ],
+      "answer": 0,
+      "explanation": "Noun + relative pronoun + clause: standard defining relative clause."
+    },
+    {
+      "question": "Select the correct imperative:",
+      "options": [
+        "The door please close.",
+        "Please close the door.",
+        "Close please the door.",
+        "Door the please close."
+      ],
+      "answer": 1,
+      "explanation": "Polite imperative: adverb + verb + object."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Because tired was she, early she left.",
+        "She left early because she was tired.",
+        "Tired because she was, she left early.",
+        "Early she left because tired was she."
+      ],
+      "answer": 1,
+      "explanation": "Main clause + 'because' + reason clause."
+    },
+    {
+      "question": "Choose the correct participle clause:",
+      "options": [
+        "Seeing the accident, he stopped.",
+        "He seeing the accident stopped.",
+        "Stopped he seeing the accident.",
+        "The accident seeing, he stopped."
+      ],
+      "answer": 0,
+      "explanation": "Participle phrase + main clause: 'Seeing the accident, he stopped'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "Hard she works every day.",
+        "She works hard every day.",
+        "Every day hard she works.",
+        "Works she hard every day."
+      ],
+      "answer": 1,
+      "explanation": "Subject + verb + adverb + time."
+    },
+    {
+      "question": "Choose the correct indirect question:",
+      "options": [
+        "Do you know where is she?",
+        "Do you know where she is?",
+        "Where she is do you know?",
+        "Know you where do she is?"
+      ],
+      "answer": 1,
+      "explanation": "Indirect questions keep statement word order: 'where she is'."
+    },
+    {
+      "question": "Choose the correct cleft sentence:",
+      "options": [
+        "It was John who broke the window.",
+        "John it was who broke the window.",
+        "Broke the window it was John who.",
+        "Who broke the window it was John."
+      ],
+      "answer": 0,
+      "explanation": "'It' + was + focus + 'who/that' + clause."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "Despite raining, we went out.",
+        "Despite the rain, we went out.",
+        "The rain despite, we went out.",
+        "We went out despite raining."
+      ],
+      "answer": 1,
+      "explanation": "'Despite + noun': 'Despite the rain, we went out'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Not only did he win, but also he broke the record.",
+        "He not only won but also broke the record.",
+        "Did he not only win but also broke the record.",
+        "Broke he not only the record but also won."
+      ],
+      "answer": 0,
+      "explanation": "Inversion after 'not only': 'Not only did he win...'"
+    },
+    {
+      "question": "Select the correct adverb clause position:",
+      "options": [
+        "We stayed home because it rained.",
+        "Because it rained we stayed home.",
+        "Rained it because we stayed home.",
+        "Home we stayed because it rained."
+      ],
+      "answer": 0,
+      "explanation": "Both positions correct, but comma needed when clause first."
+    }
+  ]
+}

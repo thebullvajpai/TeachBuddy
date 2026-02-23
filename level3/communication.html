@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Level 3 - Communication Practice</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 800px;
+    margin: 40px auto;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    height: 85vh;
+}
+
+.header {
+    padding: 15px;
+    background: #2c3e50;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#chatBox {
+    flex: 1;
+    padding: 15px;
+    overflow-y: auto;
+}
+
+.message {
+    margin-bottom: 12px;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 75%;
+}
+
+.user {
+    background: #d6eaff;
+    align-self: flex-end;
+}
+
+.ai {
+    background: #e8f5e9;
+}
+
+.correction {
+    background: #fff3cd;
+    font-size: 14px;
+}
+
+.input-area {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <div>Level 3 - AI Communication Coach</div>
+        <div id="coinDisplay">Coins: 0</div>
+    </div>
+
+    <div id="chatBox"></div>
+
+    <div class="input-area">
+        <input type="text" id="userInput" placeholder="Type your message..." />
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+</div>
+
+<script>
+let coins = parseInt(localStorage.getItem("coins") || "0");
+document.getElementById("coinDisplay").innerText = "Coins: " + coins;
+
+async function sendMessage() {
+
+    const input = document.getElementById("userInput");
+    const message = input.value.trim();
+
+    if (!message) return;
+
+    addMessage(message, "user");
+
+    input.value = "";
+
+    try {
+        const response = await fetch("http://localhost:3000/chat", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ message })
+        });
+
+        const data = await response.json();
+
+        processAIResponse(data.reply);
+
+        // reward coins
+        coins += 5;
+        localStorage.setItem("coins", coins);
+        document.getElementById("coinDisplay").innerText = "Coins: " + coins;
+
+    } catch (error) {
+        addMessage("Server error. Please check backend.", "ai");
+        console.error(error);
+    }
+}
+
+function processAIResponse(fullText) {
+
+    // Split reply and correction
+    let reply = fullText;
+    let correction = "";
+
+    if (fullText.includes("Correction:")) {
+        const parts = fullText.split("Correction:");
+        reply = parts[0].trim();
+        correction = parts[1].trim();
+    }
+
+    addMessage(reply, "ai");
+
+    if (correction) {
+        addMessage("Correction: " + correction, "correction");
+    }
+}
+
+function addMessage(text, type) {
+
+    const chatBox = document.getElementById("chatBox");
+
+    const div = document.createElement("div");
+    div.classList.add("message", type);
+    div.innerText = text;
+
+    chatBox.appendChild(div);
+    chatBox.scrollTop = chatBox.scrollHeight;
+}
+
+// Enter key support
+document.getElementById("userInput")
+.addEventListener("keydown", function(e) {
+    if (e.key === "Enter") {
+        sendMessage();
+    }
+});
+</script>
+
+</body>
+</html>

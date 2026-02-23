@@ -1,0 +1,16 @@
+{
+  "questions":[
+    {
+      "question":"Translate into English: वह रोज़ स्कूल जाता है।",
+      "answer":"He goes to school every day."
+    },
+    {
+      "question":"Translate into English: मैंने खाना खाया।",
+      "answer":"I ate food."
+    },
+    {
+      "question":"Translate into English: वह किताब पढ़ रही है।",
+      "answer":"She is reading a book."
+    }
+  ]
+}

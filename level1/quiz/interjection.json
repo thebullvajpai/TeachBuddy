@@ -1,0 +1,358 @@
+{
+  "topic": "Interjections",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Which is the correct interjection for surprise?",
+      "options": [
+        "Ouch!",
+        "Wow!",
+        "Hush!",
+        "Alas!"
+      ],
+      "answer": 1,
+      "explanation": "'Wow!' expresses strong surprise or admiration. [web:85][web:87]"
+    },
+    {
+      "question": "Choose the correct sentence with interjection:",
+      "options": [
+        "Ouch! That hurts.",
+        "Ouch that hurts.",
+        "Ouch, that hurts",
+        "Ouch that hurt."
+      ],
+      "answer": 0,
+      "explanation": "Interjections are followed by an exclamation mark and a separate sentence: 'Ouch! That hurts.' [web:92]"
+    },
+    {
+      "question": "Which interjection expresses pain?",
+      "options": [
+        "Yay!",
+        "Ouch!",
+        "Bravo!",
+        "Hey!"
+      ],
+      "answer": 1,
+      "explanation": "'Ouch!' is used for sudden pain. [web:83][web:87]"
+    },
+    {
+      "question": "Choose the correct interjection for joy:",
+      "options": [
+        "Hurrah!",
+        "Oops!",
+        "Ugh!",
+        "Shh!"
+      ],
+      "answer": 0,
+      "explanation": "'Hurrah!' expresses joy or victory. [web:86][web:97]"
+    },
+    {
+      "question": "Which is correct for approval?",
+      "options": [
+        "Boo!",
+        "Bravo!",
+        "Alas!",
+        "Ew!"
+      ],
+      "answer": 1,
+      "explanation": "'Bravo!' shows approval or praise for performance. [web:86][web:97]"
+    },
+    {
+      "question": "Select the interjection for regret:",
+      "options": [
+        "Wow!",
+        "Alas!",
+        "Yippee!",
+        "Hey!"
+      ],
+      "answer": 1,
+      "explanation": "'Alas!' expresses sorrow or regret. [web:86][web:88]"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Oh no! I forgot my keys.",
+        "Oh no I forgot my keys.",
+        "Oh no, I forgot my keys",
+        "Oh no I forget my keys."
+      ],
+      "answer": 0,
+      "explanation": "'Oh no!' for dismay, followed by exclamation mark and new sentence. [web:85][web:88]"
+    },
+    {
+      "question": "Which interjection means 'be quiet'?",
+      "options": [
+        "Hush!",
+        "Yay!",
+        "Oops!",
+        "Ah!"
+      ],
+      "answer": 0,
+      "explanation": "'Hush!' is used to request silence. [web:86][web:97]"
+    },
+    {
+      "question": "Choose for disgust:",
+      "options": [
+        "Ew!",
+        "Cool!",
+        "Ha!",
+        "Um!"
+      ],
+      "answer": 0,
+      "explanation": "'Ew!' expresses disgust or revulsion. [web:88][web:97]"
+    },
+    {
+      "question": "Which is correct for greeting?",
+      "options": [
+        "Hey!",
+        "Ouch!",
+        "Bravo!",
+        "Alas!"
+      ],
+      "answer": 0,
+      "explanation": "'Hey!' is a casual greeting or to get attention. [web:87][web:97]"
+    },
+    {
+      "question": "Choose the interjection for hesitation:",
+      "options": [
+        "Um!",
+        "Wow!",
+        "Yay!",
+        "Shh!"
+      ],
+      "answer": 0,
+      "explanation": "'Um!' shows hesitation or thinking. [web:88][web:97]"
+    },
+    {
+      "question": "Select for laughter:",
+      "options": [
+        "Ha ha!",
+        "Oops!",
+        "Ugh!",
+        "Ah!"
+      ],
+      "answer": 0,
+      "explanation": "'Ha ha!' represents laughter. [web:87][web:97]"
+    },
+    {
+      "question": "Which interjection for realization?",
+      "options": [
+        "Ah!",
+        "Ouch!",
+        "Hey!",
+        "Ew!"
+      ],
+      "answer": 0,
+      "explanation": "'Ah!' shows realization or understanding. [web:88][web:97]"
+    },
+    {
+      "question": "Choose for mistake:",
+      "options": [
+        "Oops!",
+        "Bravo!",
+        "Yippee!",
+        "Hush!"
+      ],
+      "answer": 0,
+      "explanation": "'Oops!' expresses a minor error or accident. [web:83][web:97]"
+    },
+    {
+      "question": "Correct sentence for excitement:",
+      "options": [
+        "Yay! We won!",
+        "Yay we won.",
+        "Yay, we won",
+        "Yay we win!"
+      ],
+      "answer": 0,
+      "explanation": "'Yay!' for excitement, with exclamation mark and present tense for live events. [web:88]"
+    },
+    {
+      "question": "Which for disapproval?",
+      "options": [
+        "Boo!",
+        "Wow!",
+        "Ha!",
+        "Um!"
+      ],
+      "answer": 0,
+      "explanation": "'Boo!' expresses disapproval or scare. [web:97]"
+    },
+    {
+      "question": "Choose for relief:",
+      "options": [
+        "Phew!",
+        "Ouch!",
+        "Alas!",
+        "Hey!"
+      ],
+      "answer": 0,
+      "explanation": "'Phew!' shows relief after stress or effort. [web:97]"
+    },
+    {
+      "question": "Select for attention:",
+      "options": [
+        "Hey!",
+        "Ew!",
+        "Yay!",
+        "Shh!"
+      ],
+      "answer": 0,
+      "explanation": "'Hey!' gets attention or greets casually. [web:87][web:97]"
+    },
+    {
+      "question": "Correct for annoyance:",
+      "options": [
+        "Ugh!",
+        "Bravo!",
+        "Wow!",
+        "Ah!"
+      ],
+      "answer": 0,
+      "explanation": "'Ugh!' shows disgust or frustration. [web:88][web:97]"
+    },
+    {
+      "question": "Choose the sentence:",
+      "options": [
+        "Oh! I see now.",
+        "Oh I see now.",
+        "Oh, I see now",
+        "Oh I saw now."
+      ],
+      "answer": 0,
+      "explanation": "'Oh!' for mild surprise or understanding. [web:85][web:88]"
+    },
+    {
+      "question": "Which for encouragement?",
+      "options": [
+        "Come on!",
+        "Ouch!",
+        "Alas!",
+        "Ew!"
+      ],
+      "answer": 0,
+      "explanation": "'Come on!' urges or encourages action. [web:97]"
+    },
+    {
+      "question": "Select for fear:",
+      "options": [
+        "Eek!",
+        "Yay!",
+        "Ha!",
+        "Phew!"
+      ],
+      "answer": 0,
+      "explanation": "'Eek!' expresses sudden fear or surprise. [web:97]"
+    },
+    {
+      "question": "Choose for boredom:",
+      "options": [
+        "Meh!",
+        "Wow!",
+        "Bravo!",
+        "Hey!"
+      ],
+      "answer": 0,
+      "explanation": "'Meh!' shows indifference or boredom. [web:97]"
+    },
+    {
+      "question": "Correct for agreement:",
+      "options": [
+        "Yeah!",
+        "Oops!",
+        "Ugh!",
+        "Shh!"
+      ],
+      "answer": 0,
+      "explanation": "'Yeah!' casual agreement or excitement. [web:87][web:97]"
+    },
+    {
+      "question": "Which interjection?",
+      "options": [
+        "Shh!",
+        "Yippee!",
+        "Ha!",
+        "Ah!"
+      ],
+      "answer": 0,
+      "explanation": "'Shh!' requests quiet. [web:86][web:97]"
+    },
+    {
+      "question": "Choose for disappointment:",
+      "options": [
+        "Darn!",
+        "Yay!",
+        "Cool!",
+        "Um!"
+      ],
+      "answer": 0,
+      "explanation": "'Darn!' mild disappointment or frustration. [web:97]"
+    },
+    {
+      "question": "Select for amazement:",
+      "options": [
+        "Gee!",
+        "Ouch!",
+        "Hey!",
+        "Ew!"
+      ],
+      "answer": 0,
+      "explanation": "'Gee!' expresses amazement or surprise. [web:97]"
+    },
+    {
+      "question": "Correct sentence:",
+      "options": [
+        "Aha! I found it!",
+        "Aha I found it.",
+        "Aha, I found it",
+        "Aha I find it!"
+      ],
+      "answer": 0,
+      "explanation": "'Aha!' for discovery or triumph. [web:88][web:97]"
+    },
+    {
+      "question": "Choose for thanks:",
+      "options": [
+        "Thanks!",
+        "Oops!",
+        "Alas!",
+        "Boo!"
+      ],
+      "answer": 0,
+      "explanation": "'Thanks!' expresses gratitude. [web:87][web:97]"
+    },
+    {
+      "question": "Which for confusion?",
+      "options": [
+        "Huh?",
+        "Yay!",
+        "Ha!",
+        "Phew!"
+      ],
+      "answer": 0,
+      "explanation": "'Huh?' shows confusion or seeks repetition. [web:87][web:97]"
+    },
+    {
+      "question": "Select for coolness:",
+      "options": [
+        "Cool!",
+        "Ouch!",
+        "Ew!",
+        "Shh!"
+      ],
+      "answer": 0,
+      "explanation": "'Cool!' shows approval or something impressive. [web:88][web:97]"
+    },
+    {
+      "question": "Choose the correct one:",
+      "options": [
+        "Yikes! That's scary!",
+        "Yikes that scary.",
+        "Yikes, that's scary",
+        "Yikes that's scare!"
+      ],
+      "answer": 0,
+      "explanation": "'Yikes!' for alarm or shock. [web:97]"
+    }
+  ]
+}

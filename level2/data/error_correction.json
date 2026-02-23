@@ -1,0 +1,16 @@
+{
+  "questions":[
+    {
+      "sentence":"She go to school every day.",
+      "correct":"She goes to school every day."
+    },
+    {
+      "sentence":"I did not knew the answer.",
+      "correct":"I did not know the answer."
+    },
+    {
+      "sentence":"He have finished his work.",
+      "correct":"He has finished his work."
+    }
+  ]
+}

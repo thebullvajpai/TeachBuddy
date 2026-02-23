@@ -1,0 +1,336 @@
+{
+  "topic": "Articles (a, an, the)",
+  "level": 2,
+  "questions": [
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She is a engineer.",
+        "She is an engineer.",
+        "She is the engineer.",
+        "She is engineer."
+      ],
+      "answer": 1,
+      "explanation": "'An' is used before vowel sounds: 'an engineer' (the 'e' sounds like /i/)."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I saw a elephant in the zoo.",
+        "I saw an elephant in the zoo.",
+        "I saw elephant in the zoo.",
+        "I saw the elephant in zoo."
+      ],
+      "answer": 1,
+      "explanation": "'An' before vowel sound 'e' in 'elephant'; indefinite article for first mention."
+    },
+    {
+      "question": "Select the correct option:",
+      "options": [
+        "I need a new umbrella.",
+        "I need the new umbrella.",
+        "I need new umbrella.",
+        "I need an new umbrella."
+      ],
+      "answer": 0,
+      "explanation": "'A' before consonant sound 'n' in 'new'; indefinite for general need."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He is the honest man.",
+        "He is an honest man.",
+        "He is a honest man.",
+        "He is honest man."
+      ],
+      "answer": 1,
+      "explanation": "'An' before vowel sound 'o' in 'honest' (silent 'h'); indefinite for general description."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She wants to be a doctor.",
+        "She wants to be doctor.",
+        "She wants to be the doctor.",
+        "She wants to be doctors."
+      ],
+      "answer": 0,
+      "explanation": "'A' for professions/dreams in general; indefinite article before singular countable noun."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "The water is cold.",
+        "Water is cold.",
+        "A water is cold.",
+        "An water is cold."
+      ],
+      "answer": 1,
+      "explanation": "No article with uncountable nouns in general statements: 'Water is cold' (general truth)."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I like the dogs.",
+        "I like dogs.",
+        "I like a dogs.",
+        "I like dog."
+      ],
+      "answer": 1,
+      "explanation": "No article with plural countable nouns for general likes: 'I like dogs'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "Pass me the salt, please.",
+        "Pass me salt, please.",
+        "Pass me a salt, please.",
+        "Pass me an salt, please."
+      ],
+      "answer": 0,
+      "explanation": "'The' for specific items already known to both speakers: 'the salt' on the table."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I bought an new car yesterday.",
+        "I bought a new car yesterday.",
+        "I bought new car yesterday.",
+        "I bought the new car yesterday."
+      ],
+      "answer": 1,
+      "explanation": "'A' before 'new' (consonant sound); indefinite for something newly mentioned."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The sun rises in the east.",
+        "Sun rises in east.",
+        "A sun rises in the east.",
+        "An sun rises in the east."
+      ],
+      "answer": 0,
+      "explanation": "'The' with unique things (the sun, the earth) and geographical facts."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "I have a headache.",
+        "I have headache.",
+        "I have the headache.",
+        "I have headaches."
+      ],
+      "answer": 0,
+      "explanation": "'A' with singular illnesses/diseases: 'a headache'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She plays the piano very well.",
+        "She plays piano very well.",
+        "She plays a piano very well.",
+        "She plays pianos very well."
+      ],
+      "answer": 0,
+      "explanation": "'The' with musical instruments when talking about playing them."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I go to the bed early.",
+        "I go to bed early.",
+        "I go to a bed early.",
+        "I go to an bed early."
+      ],
+      "answer": 1,
+      "explanation": "No article with 'go to bed' (idiomatic for sleeping)."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "He is at the home.",
+        "He is at home.",
+        "He is at a home.",
+        "He is at an home."
+      ],
+      "answer": 1,
+      "explanation": "No article with 'at home' (fixed expression for location)."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The life is beautiful.",
+        "Life is beautiful.",
+        "A life is beautiful.",
+        "An life is beautiful."
+      ],
+      "answer": 1,
+      "explanation": "No article with abstract uncountable nouns in general statements: 'Life is beautiful'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "I need the advice.",
+        "I need an advice.",
+        "I need advice.",
+        "I need advices."
+      ],
+      "answer": 2,
+      "explanation": "'Advice' is uncountable; no article in general requests: 'need advice'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She goes to the school by bus.",
+        "She goes to school by bus.",
+        "She goes to a school by bus.",
+        "She goes to an school by bus."
+      ],
+      "answer": 1,
+      "explanation": "No article with 'go to school' meaning attend as a student."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The Mount Everest is the highest mountain.",
+        "Mount Everest is the highest mountain.",
+        "A Mount Everest is the highest mountain.",
+        "An Mount Everest is the highest mountain."
+      ],
+      "answer": 1,
+      "explanation": "No article with mountain names; 'the' for superlative: 'the highest mountain'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "I saw a bird flying in the sky.",
+        "I saw bird flying in sky.",
+        "I saw the bird flying in sky.",
+        "I saw birds flying in the sky."
+      ],
+      "answer": 0,
+      "explanation": "'A' for first mention of singular countable noun; 'the sky' as unique."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He is the best student in a class.",
+        "He is the best student in the class.",
+        "He is best student in class.",
+        "He is a best student in class."
+      ],
+      "answer": 1,
+      "explanation": "'The' for superlatives ('the best') and specific places ('the class')."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "I love the chocolate.",
+        "I love chocolate.",
+        "I love a chocolate.",
+        "I love an chocolate."
+      ],
+      "answer": 1,
+      "explanation": "No article with uncountable nouns for general preferences: 'love chocolate'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The cats are sleeping in the garden.",
+        "Cats are sleeping in garden.",
+        "A cats are sleeping in the garden.",
+        "Cats are sleeping in a garden."
+      ],
+      "answer": 0,
+      "explanation": "'The' for specific cats known in context; 'the garden' as specific place."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She has got a fever.",
+        "She has got fever.",
+        "She has got the fever.",
+        "She has got fevers."
+      ],
+      "answer": 0,
+      "explanation": "'A' with specific illnesses: 'has got a fever'."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "We went to the prison to visit a friend.",
+        "We went to prison to visit friend.",
+        "We went to prison to visit a friend.",
+        "We went to a prison to visit the friend."
+      ],
+      "answer": 0,
+      "explanation": "'The' with institutions when purpose is stated ('to visit'); 'a friend' for first mention."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The information is important.",
+        "Information is important.",
+        "A information is important.",
+        "An information is important."
+      ],
+      "answer": 0,
+      "explanation": "'The' with uncountable nouns when specific: 'the information' (particular one)."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "He plays the football every weekend.",
+        "He plays football every weekend.",
+        "He plays a football every weekend.",
+        "He plays an football every weekend."
+      ],
+      "answer": 1,
+      "explanation": "No article with sports when playing: 'plays football'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I read the newspaper every morning.",
+        "I read newspaper every morning.",
+        "I read a newspaper every morning.",
+        "I read an newspaper every morning."
+      ],
+      "answer": 0,
+      "explanation": "'The' for habitual specific items like 'the newspaper' (one you usually read)."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "The Amazon is a longest river.",
+        "The Amazon is the longest river.",
+        "Amazon is a longest river.",
+        "Amazon is longest river."
+      ],
+      "answer": 1,
+      "explanation": "'The' with river names and superlatives: 'the longest river'."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She is in the hospital.",
+        "She is in hospital.",
+        "She is in a hospital.",
+        "She is in an hospital."
+      ],
+      "answer": 0,
+      "explanation": "'The' with 'hospital' when patient; 'a hospital' if working there (context matters)."
+    },
+    {
+      "question": "Select the correct sentence:",
+      "options": [
+        "I would like a glass of water.",
+        "I would like glass of water.",
+        "I would like the glass of water.",
+        "I would like glasses of water."
+      ],
+      "answer": 0,
+      "explanation": "'A' before singular countable 'glass'; uncountable 'water' needs no article."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Level 2 - Practice Zone</title>
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    body {
+      font-family: Arial;
+      background: #f4f6f9;
+      text-align: center;
+      padding: 40px;
+    }
+
+    h1 {
+      margin-bottom: 30px;
+    }
+
+    .card-container {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      flex-wrap: wrap;
+    }
+
+    .card {
+      background: white;
+      width: 250px;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transition: 0.3s;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+    }
+
+    .card h3 {
+      margin-bottom: 15px;
+    }
+
+    button {
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      background: #4CAF50;
+      color: white;
+      cursor: pointer;
+    }
+
+    .locked {
+      background: #ddd;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+<h1>🚀 Level 2 - Practice Section</h1>
+
+<div class="card-container" id="practiceContainer"></div>
+<div><button onclick="window.location.href='../level3/communication.html'">let's move to level 3</button></div>
+<script src="level2.js"></script>
+
+</body>
+</html>
