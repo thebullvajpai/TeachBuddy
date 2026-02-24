@@ -3,79 +3,37 @@
 
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Grammar Quiz</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f6f8;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-
-    .quiz-box {
-      background: #fff;
-      padding: 25px;
-      width: 420px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    h2 {
-      margin-bottom: 15px;
-      color: #333;
-    }
-
-    .option {
-      background: #eee;
-      padding: 10px;
-      margin: 8px 0;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-
-    .option:hover {
-      background: #dcdcdc;
-    }
-
-    .correct {
-      background: #b7f7c2;
-    }
-
-    .wrong {
-      background: #f7b7b7;
-    }
-
-    .explanation {
-      margin-top: 10px;
-      font-size: 14px;
-      color: #555;
-    }
-
-    button {
-      margin-top: 15px;
-      padding: 8px 15px;
-      border: none;
-      background: #4CAF50;
-      color: white;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-
-    button:disabled {
-      background: gray;
-    }
-  </style>
+  <link rel="stylesheet" href="../css/output.css">
 </head>
 
-<body>
+<body class="tb-shell tb-quiz">
 
-  <div class="quiz-box" id="quizBox">
-    <h2 id="question">Loading...</h2>
-    <div id="options"></div>
-    <div class="explanation" id="explanation"></div>
-    <button id="nextBtn" disabled>Next Question</button>
+  <div class="tb-container">
+    <div class="mx-auto max-w-lg">
+      <header class="tb-header">
+        <div class="relative overflow-hidden rounded-3xl border border-white/40 bg-white/80 px-6 py-8 shadow-xl backdrop-blur sm:px-10">
+          <div class="absolute -right-24 -top-24 h-64 w-64 rounded-full bg-indigo-500/10 blur-3xl"></div>
+          <div class="absolute -bottom-24 -left-24 h-64 w-64 rounded-full bg-amber-500/10 blur-3xl"></div>
+          <div class="relative flex items-start justify-between gap-4">
+            <div>
+              <div class="tb-badge">Level 1 · Quiz</div>
+              <h1 class="mt-4 text-3xl font-extrabold tracking-tight sm:text-5xl">Grammar quiz</h1>
+              <p class="mt-3 text-slate-700">Pick the correct option. Explanations appear after you answer.</p>
+            </div>
+            <button class="tb-btn-secondary" onclick="location.href='learning.html'">← Back</button>
+          </div>
+        </div>
+      </header>
+
+      <div class="tb-card" id="quizBox">
+        <h2 class="text-lg font-semibold" id="question">Loading...</h2>
+        <div class="mt-4" id="options"></div>
+        <div class="mt-4 text-sm text-slate-700" id="explanation"></div>
+        <button class="tb-btn mt-5 w-full" id="nextBtn" disabled>Next question</button>
+      </div>
+    </div>
   </div>
 
   <script>
@@ -188,9 +146,13 @@
     function quizFinished(scorePercentage, topic) {
       const quizBox = document.getElementById("quizBox");
 
-    quizBox.innerHTML = `<h2>🎉 Quiz Completed!</h2>
-    <p>Your Score: <strong>${scorePercentage}%</strong></p>
-  `;
+    quizBox.innerHTML = `
+      <div class="text-center">
+        <div class="tb-badge mx-auto">Result</div>
+        <h2 class="mt-3 text-2xl font-bold">🎉 Quiz completed!</h2>
+        <p class="mt-2 text-slate-700">Your score: <strong>${scorePercentage}%</strong></p>
+      </div>
+    `;
 
       if (scorePercentage >= PASS_PERCENTAGE) {
         localStorage.setItem("level1_completed", "true");
@@ -206,15 +168,17 @@
         }
 
         quizBox.innerHTML += `
-      <button onclick="location.href='learning.html'">
-        ➡️ Move to Next Topic
-      </button>
-    `;
+          <div class="mt-6 flex justify-center">
+            <button class="tb-btn" onclick="location.href='learning.html'">➡️ Move to next topic</button>
+          </div>
+        `;
       } else {
         quizBox.innerHTML += `
-      <p style="color:red">You need at least 70% to unlock next topic.</p>
-      <button onclick="location.reload()">🔁 Retry Quiz</button>
-    `;
+          <p class="mt-5 text-center text-sm font-semibold text-rose-700">You need at least 70% to unlock the next topic.</p>
+          <div class="mt-4 flex justify-center">
+            <button class="tb-btn" onclick="location.reload()">🔁 Retry quiz</button>
+          </div>
+        `;
       }
     }
   </script>

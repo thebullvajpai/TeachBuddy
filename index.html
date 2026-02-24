@@ -2,46 +2,64 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Teach Buddy | English Learning Path</title>
-  <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/output.css">
 </head>
-<body>
+<body class="tb-shell">
 
-  <header>
-    <h1>Learn English Step by Step</h1>
-    <p>Build strong grammar foundations with guided lessons and quizzes.</p>
-  </header>
+  <div class="tb-container">
+    <header class="tb-header">
+      <div class="relative overflow-hidden rounded-3xl border border-white/40 bg-gradient-to-r from-slate-900 via-indigo-900 to-violet-900 px-6 py-10 text-white shadow-xl sm:px-10">
+        <div class="absolute -right-16 -top-16 h-56 w-56 rounded-full bg-white/10 blur-2xl"></div>
+        <div class="absolute -bottom-20 -left-20 h-64 w-64 rounded-full bg-fuchsia-400/20 blur-3xl"></div>
+        <div class="relative">
+          <div class="tb-badge">TeachBuddy · English learning with AI</div>
+          <h1 class="mt-4 text-3xl font-extrabold tracking-tight sm:text-5xl">Learn English step by step</h1>
+          <p class="mt-3 max-w-2xl text-white/85">Build strong grammar foundations with guided lessons, quizzes, and an AI communication coach.</p>
+          <div class="mt-6 flex flex-col gap-3 sm:flex-row sm:items-center">
+            <button class="tb-btn cursor-pointer" onclick="startLearning()">🚀 Start learning</button>
+            <div class="text-sm text-white/75">Progress saves automatically in your browser.</div>
+          </div>
+        </div>
+      </div>
+    </header>
 
-  <section class="plan">
-    <h2 class="text-4xl text-red-500 font-bold">📘 Learning Plan</h2>
-    <ol>
-      <li>Read topic notes carefully</li> 
-      <li>Attempt the quiz</li>
-      <li>Score at least <strong>70%</strong></li>
-      <li>Unlock the next topic</li>
-    </ol>
-  </section>
+    <div class="grid gap-6">
+      <section class="tb-card">
+        <h2 class="tb-card-title">📘 Learning plan</h2>
+        <ol class="mt-4 list-decimal space-y-2 pl-6 text-slate-700">
+          <li>Read topic notes carefully</li>
+          <li>Attempt the quiz</li>
+          <li>Score at least <strong>70%</strong></li>
+          <li>Unlock the next topic</li>
+        </ol>
+      </section>
 
-  <section class="flow">
-    <h2 >🔁 Learning Flow</h2>
-    <div class="flow-box">
-      Notes → Quiz → Score ≥ 70% → Next Topic
+      <section class="tb-card">
+        <h2 class="tb-card-title">🔁 Learning flow</h2>
+        <div class="mt-4 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-4 text-center text-sm font-semibold text-slate-900">
+          Notes → Quiz → Score ≥ 70% → Next Topic
+        </div>
+      </section>
+
+      <section class="tb-card">
+        <h2 class="tb-card-title">⚠ Important rules</h2>
+        <ul class="mt-4 list-disc space-y-2 pl-6 text-slate-700">
+          <li>You cannot skip topics</li>
+          <li>Quiz must be completed to proceed</li>
+          <li>Reattempt quiz if score is below 70%</li>
+        </ul>
+      </section>
+
+      <section class="tb-card">
+        <div class="flex flex-col gap-2">
+          <div class="text-sm font-semibold text-slate-900">Tip</div>
+          <div class="tb-muted">Aim for <span class="font-semibold text-slate-900">70%+</span> in each quiz to unlock the next topic. If you get stuck, use Level 3 to practice real conversation.</div>
+        </div>
+      </section>
     </div>
-  </section>
-
-  <section class="rules">
-    <h2>⚠ Important Rules</h2>
-    <ul>
-      <li>You cannot skip topics</li>
-      <li>Quiz must be completed to proceed</li>
-      <li>Reattempt quiz if score is below 70%</li>
-    </ul>
-  </section>
-
-  <section class="start">
-    <button onclick="startLearning()">🚀 Start Learning</button>
-  </section>
+  </div>
 
   <script src="js/main.js"></script>
 </body>
