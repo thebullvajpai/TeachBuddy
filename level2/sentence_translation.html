@@ -1,58 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Sentence Translation Practice</title>
-
-<style>
-body{
-    font-family: Arial;
-    background:#eef2f7;
-    text-align:center;
-}
-
-.container{
-    background:white;
-    width:650px;
-    margin:80px auto;
-    padding:30px;
-    border-radius:10px;
-    box-shadow:0 0 10px rgba(0,0,0,0.1);
-}
-
-input{
-    width:80%;
-    padding:10px;
-    margin-top:15px;
-}
-
-button{
-    padding:10px 20px;
-    margin-top:15px;
-    cursor:pointer;
-}
-
-#result{
-    margin-top:20px;
-    font-weight:bold;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sentence Translation Practice</title>
+    <link rel="stylesheet" href="../css/output.css">
 </head>
 
-<body>
+<body class="tb-shell">
 
-<div class="container">
-<h2>Sentence Translation</h2>
+    <div class="tb-container">
+        <div class="mx-auto max-w-2xl">
+            <header class="tb-header">
+                <div class="flex items-center justify-between gap-4">
+                    <div>
+                        <div class="tb-badge">Level 2 · Translation</div>
+                        <h1 class="tb-title">Sentence translation</h1>
+                        <p class="tb-subtitle">Translate the sentence into natural English.</p>
+                    </div>
+                    <button class="tb-btn-secondary" onclick="window.location.href='level2_dashboard.html'">← Back</button>
+                </div>
+            </header>
 
-<p id="question"></p>
+            <div class="tb-card">
+                <p id="question" class="text-base font-semibold text-slate-900"></p>
 
-<input type="text" id="userAnswer" placeholder="Type your translation here">
+                <div class="mt-4">
+                    <input class="tb-input" type="text" id="userAnswer" placeholder="Type your translation here">
+                </div>
 
-<br>
-<button onclick="checkAnswer()">Check</button>
-<button onclick="nextQuestion()">Next</button>
+                <div class="mt-5 flex flex-col gap-3 sm:flex-row">
+                    <button class="tb-btn w-full" onclick="checkAnswer()">Check</button>
+                    <button class="tb-btn-secondary w-full" onclick="nextQuestion()">Next</button>
+                </div>
 
-<p id="result"></p>
-</div>
+                <p id="result" class="mt-4 text-sm font-semibold text-slate-700"></p>
+            </div>
+        </div>
+    </div>
 
 <script>
 let questions=[];

@@ -1,69 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Sentence Rearrangement Practice</title>
-
-<style>
-body{
-  font-family: Arial;
-  background:#f5f7fb;
-  text-align:center;
-}
-
-.container{
-  background:white;
-  width:420px;
-  margin:60px auto;
-  padding:30px;
-  border-radius:12px;
-  box-shadow:0 4px 12px rgba(0,0,0,0.15);
-}
-
-.word{
-  display:inline-block;
-  padding:8px 12px;
-  margin:6px;
-  background:#dfe6ff;
-  border-radius:6px;
-  cursor:pointer;
-}
-
-#answerBox{
-  margin-top:20px;
-  min-height:40px;
-  border:2px dashed #aaa;
-  padding:10px;
-}
-
-button{
-  margin-top:20px;
-  padding:10px 18px;
-  border:none;
-  background:#4CAF50;
-  color:white;
-  border-radius:6px;
-  cursor:pointer;
-}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sentence Rearrangement Practice</title>
+  <link rel="stylesheet" href="../css/output.css">
 </head>
 
-<body>
+<body class="tb-shell tb-rearrange">
 
-<div class="container">
-<h2>Arrange the sentence</h2>
+  <div class="tb-container">
+    <div class="mx-auto max-w-xl">
+      <header class="tb-header">
+        <div class="flex items-center justify-between gap-4">
+          <div>
+            <div class="tb-badge">Level 2 · Rearrangement</div>
+            <h1 class="tb-title">Arrange the sentence</h1>
+            <p class="tb-subtitle">Tap the words in the correct order.</p>
+          </div>
+          <button class="tb-btn-secondary" onclick="window.location.href='level2_dashboard.html'">← Back</button>
+        </div>
+      </header>
 
-<div id="wordsBox"></div>
+      <div class="tb-card">
+        <div id="wordsBox" class="flex flex-wrap justify-center gap-2"></div>
 
-<div id="answerBox"></div>
+        <div id="answerBox" class="mt-5 min-h-[3rem] rounded-2xl border-2 border-dashed border-slate-300 bg-slate-50 px-4 py-3 text-sm text-slate-900"></div>
 
-<button onclick="checkAnswer()">Check</button>
-<p id="result"></p>
+        <div class="mt-5 flex flex-col gap-3 sm:flex-row">
+          <button class="tb-btn w-full" onclick="checkAnswer()">Check</button>
+          <button class="tb-btn-secondary w-full" onclick="nextQuestion()">Next question</button>
+        </div>
 
-<button onclick="nextQuestion()">Next Question</button>
-</div>
+        <p id="result" class="mt-4 text-sm font-semibold text-slate-700"></p>
+      </div>
+    </div>
+  </div>
 
-<script src="sentence_rearrange.js"></script>
+  <script src="sentence_rearrange.js"></script>
 
 </body>
 </html>

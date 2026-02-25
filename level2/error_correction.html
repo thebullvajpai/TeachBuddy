@@ -1,59 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Error Correction Practice</title>
-
-<style>
-body{
-    font-family: Arial;
-    background:#f2f4f7;
-    text-align:center;
-}
-
-.box{
-    background:white;
-    width:600px;
-    margin:80px auto;
-    padding:30px;
-    border-radius:10px;
-    box-shadow:0 0 10px rgba(0,0,0,0.1);
-}
-
-input{
-    width:80%;
-    padding:10px;
-    margin-top:15px;
-}
-
-button{
-    padding:10px 20px;
-    margin-top:15px;
-    cursor:pointer;
-}
-
-#result{
-    margin-top:20px;
-    font-weight:bold;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Error Correction Practice</title>
+    <link rel="stylesheet" href="../css/output.css">
 </head>
 
-<body>
+<body class="tb-shell">
 
-<div class="box">
-<h2>Correct the Sentence</h2>
-<h6>(Don't forget the punctuations)</h6>
+    <div class="tb-container">
+        <div class="mx-auto max-w-2xl">
+            <header class="tb-header">
+                <div class="flex items-center justify-between gap-4">
+                    <div>
+                        <div class="tb-badge">Level 2 · Error correction</div>
+                        <h1 class="tb-title">Correct the sentence</h1>
+                        <p class="tb-subtitle">Don’t forget punctuation.</p>
+                    </div>
+                    <button class="tb-btn-secondary" onclick="window.location.href='level2_dashboard.html'">← Back</button>
+                </div>
+            </header>
 
-<p id="sentence"></p>
+            <div class="tb-card">
+                <p id="sentence" class="text-base font-semibold text-slate-900"></p>
 
-<input type="text" id="userAnswer" placeholder="Type corrected sentence">
+                <div class="mt-4">
+                    <input class="tb-input" type="text" id="userAnswer" placeholder="Type corrected sentence">
+                </div>
 
-<br>
-<button onclick="checkAnswer()">Check</button>
-<button onclick="nextQuestion()">Next</button>
+                <div class="mt-5 flex flex-col gap-3 sm:flex-row">
+                    <button class="tb-btn w-full" onclick="checkAnswer()">Check</button>
+                    <button class="tb-btn-secondary w-full" onclick="nextQuestion()">Next</button>
+                </div>
 
-<p id="result"></p>
-</div>
+                <p id="result" class="mt-4 text-sm font-semibold text-slate-700"></p>
+            </div>
+        </div>
+    </div>
 
 <script>
 let questions=[];
