@@ -35,8 +35,8 @@ function readUnlockedIndex() {
   return unlocked;
 }
 
-// let unlockedIndex = readUnlockedIndex();
-let unlockedIndex = 999;   // temporary full unlock
+let unlockedIndex = readUnlockedIndex();
+// let unlockedIndex = 999;   // temporary full unlock
 
 
 topics.forEach((topic, index) => {
