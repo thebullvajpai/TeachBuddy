@@ -1,16 +1,208 @@
 {
-  "questions":[
+  "questions": [
     {
-      "question":"Translate into English: वह रोज़ स्कूल जाता है।",
-      "answer":"He goes to school every day."
+      "question": "Translate into English: वह रोज़ स्कूल जाता है।",
+      "answer": "He goes to school every day."
     },
     {
-      "question":"Translate into English: मैंने खाना खाया।",
-      "answer":"I ate food."
+      "question": "Translate into English: मैंने खाना खाया।",
+      "answer": "I ate food."
     },
     {
-      "question":"Translate into English: वह किताब पढ़ रही है।",
-      "answer":"She is reading a book."
+      "question": "Translate into English: वह किताब पढ़ रही है।",
+      "answer": "She is reading a book."
+    },
+    {
+      "question": "Translate into English: हम पार्क जा रहे हैं।",
+      "answer": "We are going to the park."
+    },
+    {
+      "question": "Translate into English: बच्चे बाहर खेल रहे हैं।",
+      "answer": "The children are playing outside."
+    },
+    {
+      "question": "Translate into English: माँ रोटी बना रही है।",
+      "answer": "Mother is making rotis."
+    },
+    {
+      "question": "Translate into English: मैं कल बाज़ार गया था।",
+      "answer": "I went to the market yesterday."
+    },
+    {
+      "question": "Translate into English: वह बहुत तेज़ दौड़ता है।",
+      "answer": "He runs very fast."
+    },
+    {
+      "question": "Translate into English: हमने फिल्म देखी।",
+      "answer": "We watched a movie."
+    },
+    {
+      "question": "Translate into English: कुत्ता भौंक रहा है।",
+      "answer": "The dog is barking."
+    },
+    {
+      "question": "Translate into English: मैं चाय पीता हूँ।",
+      "answer": "I drink tea."
+    },
+    {
+      "question": "Translate into English: बहन होमवर्क कर रही है।",
+      "answer": "Sister is doing homework."
+    },
+    {
+      "question": "Translate into English: पिता ऑफिस जा रहे हैं।",
+      "answer": "Father is going to office."
+    },
+    {
+      "question": "Translate into English: बारिश हो रही है।",
+      "answer": "It is raining."
+    },
+    {
+      "question": "Translate into English: मैं अंग्रेज़ी सीख रहा हूँ।",
+      "answer": "I am learning English."
+    },
+    {
+      "question": "Translate into English: दोस्त पार्टी में नाचे।",
+      "answer": "Friend danced at the party."
+    },
+    {
+      "question": "Translate into English: परिवार समाचार देख रहा है।",
+      "answer": "Family is watching news."
+    },
+    {
+      "question": "Translate into English: वह स्कूल पैदल जाती है।",
+      "answer": "She walks to school."
+    },
+    {
+      "question": "Translate into English: लड़का केक खा रहा है।",
+      "answer": "The boy is eating cake."
+    },
+    {
+      "question": "Translate into English: कल मीटिंग में गया।",
+      "answer": "I went to a meeting yesterday."
+    },
+    {
+      "question": "Translate into English: बगीचे में फूल उगते हैं।",
+      "answer": "Flowers grow in the garden."
+    },
+    {
+      "question": "Translate into English: शाम को संगीत सुनता हूँ।",
+      "answer": "I listen to music in the evening."
+    },
+    {
+      "question": "Translate into English: सुबह योग करता हूँ।",
+      "answer": "I do yoga in the morning."
+    },
+    {
+      "question": "Translate into English: ट्रेन से आता हूँ।",
+      "answer": "I come by train."
+    },
+    {
+      "question": "Translate into English: दोस्त को पत्र लिखा।",
+      "answer": "I wrote a letter to my friend."
+    },
+    {
+      "question": "Translate into English: सुबह 9 बजे क्लास शुरू होती है।",
+      "answer": "Class starts at 9 am."
+    },
+    {
+      "question": "Translate into English: चाची चावल पका रही है।",
+      "answer": "Aunt is cooking rice."
+    },
+    {
+      "question": "Translate into English: बस का इंतज़ार करता है।",
+      "answer": "He waits for the bus."
+    },
+    {
+      "question": "Translate into English: फिल्म दिलचस्प थी।",
+      "answer": "The movie was interesting."
+    },
+    {
+      "question": "Translate into English: काली कॉफ़ी पीती है।",
+      "answer": "She drinks black coffee."
+    },
+    {
+      "question": "Translate into English: पिछले हफ्ते प्रोजेक्ट पूरा किया।",
+      "answer": "We completed the project last week."
+    },
+    {
+      "question": "Translate into English: पक्षी मधुर स्वर में गाता है।",
+      "answer": "The bird sings sweetly."
+    },
+    {
+      "question": "Translate into English: दूध लाने दुकान गया।",
+      "answer": "I went to the store to buy milk."
+    },
+    {
+      "question": "Translate into English: टीम ने मैच जीता।",
+      "answer": "The team won the match."
+    },
+    {
+      "question": "Translate into English: बहन फ़ोन पर बात कर रही है।",
+      "answer": "Sister is talking on the phone."
+    },
+    {
+      "question": "Translate into English: लाइब्रेरी में किताबें पढ़ता है।",
+      "answer": "He reads books in the library."
+    },
+    {
+      "question": "Translate into English: हर रात माँ खाना बनाती है।",
+      "answer": "Mother cooks dinner every night."
+    },
+    {
+      "question": "Translate into English: परीक्षा उत्तम अंकों से पास की।",
+      "answer": "She passed the exam with flying colours."
+    },
+    {
+      "question": "Translate into English: साइकिल से स्कूल जाता है।",
+      "answer": "He goes to school by cycle."
+    },
+    {
+      "question": "Translate into English: लड़की ने सुंदर गाना गाया।",
+      "answer": "The girl sang a beautiful song."
+    },
+    {
+      "question": "Translate into English: आज ट्रैफ़िक भारी था।",
+      "answer": "Traffic was heavy today."
+    },
+    {
+      "question": "Translate into English: बच्चे सब्ज़ियाँ खा रहे हैं।",
+      "answer": "The children are eating vegetables."
+    },
+    {
+      "question": "Translate into English: मीटिंग से पहले काम खत्म किया।",
+      "answer": "I finished work before the meeting."
+    },
+    {
+      "question": "Translate into English: सूरज पूर्व में उगता है।",
+      "answer": "The sun rises in the east."
+    },
+    {
+      "question": "Translate into English: नया लैपटॉप खरीदा।",
+      "answer": "He bought a new laptop."
+    },
+    {
+      "question": "Translate into English: रोज़ योगाभ्यास करती है।",
+      "answer": "She practices yoga daily."
+    },
+    {
+      "question": "Translate into English: स्टेशन पर दोस्त से मिला।",
+      "answer": "I met my friend at the station."
+    },
+    {
+      "question": "Translate into English: बारिश के बाद इंद्रधनुष दिखता है।",
+      "answer": "A rainbow appears after rain."
+    },
+    {
+      "question": "Translate into English: डेवलपर कोड लिख रहा है।",
+      "answer": "The developer is writing code."
+    },
+    {
+      "question": "Translate into English: छुट्टी पर दादा-दादी से मिलते हैं।",
+      "answer": "We visit grandparents on holiday."
+    },
+    {
+      "question": "Translate into English: रात में तारे चमकते हैं।",
+      "answer": "Stars shine at night."
     }
   ]
 }

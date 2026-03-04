@@ -1,12 +1,212 @@
 {
   "questions": [
     {
-      "words": ["playing", "is", "she", "outside"],
-      "correct": "she is playing outside"
+      "words": ["goes", "to", "school", "she", "every", "day"],
+      "correct": "She goes to school every day."
     },
     {
-      "words": ["to", "I", "school", "go", "daily"],
-      "correct": "I go to school daily"
+      "words": ["playing", "is", "he", "football"],
+      "correct": "He is playing football."
+    },
+    {
+      "words": ["to", "I", "market", "went", "yesterday"],
+      "correct": "I went to the market yesterday."
+    },
+    {
+      "words": ["reads", "book", "a", "she", "daily"],
+      "correct": "She reads a book daily."
+    },
+    {
+      "words": ["cooking", "is", "mother", "my"],
+      "correct": "My mother is cooking."
+    },
+    {
+      "words": ["park", "in", "the", "children", "play"],
+      "correct": "Children play in the park."
+    },
+    {
+      "words": ["English", "learning", "am", "I"],
+      "correct": "I am learning English."
+    },
+    {
+      "words": ["tea", "likes", "he", "not"],
+      "correct": "He does not like tea."
+    },
+    {
+      "words": ["movie", "watched", "we", "last", "night"],
+      "correct": "We watched a movie last night."
+    },
+    {
+      "words": ["runs", "fast", "the", "dog"],
+      "correct": "The dog runs fast."
+    },
+    {
+      "words": ["homework", "doing", "is", "brother", "my"],
+      "correct": "My brother is doing homework."
+    },
+    {
+      "words": ["to", "office", "goes", "father", "by", "car"],
+      "correct": "Father goes to office by car."
+    },
+    {
+      "words": ["sings", "beautifully", "the", "girl"],
+      "correct": "The girl sings beautifully."
+    },
+    {
+      "words": ["breakfast", "eats", "he", "at", "7", "am"],
+      "correct": "He eats breakfast at 7 am."
+    },
+    {
+      "words": ["rain", "is", "it", "heavily"],
+      "correct": "It is raining heavily."
+    },
+    {
+      "words": ["Python", "learning", "am", "I"],
+      "correct": "I am learning Python."
+    },
+    {
+      "words": ["party", "at", "danced", "they", "the"],
+      "correct": "They danced at the party."
+    },
+    {
+      "words": ["news", "watching", "is", "family", "my"],
+      "correct": "My family is watching news."
+    },
+    {
+      "words": ["school", "to", "walks", "she", "daily"],
+      "correct": "She walks to school daily."
+    },
+    {
+      "words": ["cake", "eating", "is", "the", "boy"],
+      "correct": "The boy is eating cake."
+    },
+    {
+      "words": ["meeting", "attended", "I", "yesterday"],
+      "correct": "I attended a meeting yesterday."
+    },
+    {
+      "words": ["garden", "in", "flowers", "grow"],
+      "correct": "Flowers grow in the garden."
+    },
+    {
+      "words": ["music", "listens", "to", "he", "evening"],
+      "correct": "He listens to music in the evening."
+    },
+    {
+      "words": ["exercise", "does", "she", "morning"],
+      "correct": "She does exercise in the morning."
+    },
+    {
+      "words": ["train", "by", "comes", "he", "daily"],
+      "correct": "He comes by train daily."
+    },
+    {
+      "words": ["letter", "wrote", "I", "to", "friend"],
+      "correct": "I wrote a letter to my friend."
+    },
+    {
+      "words": ["class", "starts", "at", "9", "am"],
+      "correct": "Class starts at 9 am."
+    },
+    {
+      "words": ["rice", "cooking", "is", "aunt", "my"],
+      "correct": "My aunt is cooking rice."
+    },
+    {
+      "words": ["bus", "waits", "for", "the", "he"],
+      "correct": "He waits for the bus."
+    },
+    {
+      "words": ["movie", "interesting", "was", "the"],
+      "correct": "The movie was interesting."
+    },
+    {
+      "words": ["coffee", "drinks", "she", "black"],
+      "correct": "She drinks black coffee."
+    },
+    {
+      "words": ["project", "completed", "we", "last", "week"],
+      "correct": "We completed the project last week."
+    },
+    {
+      "words": ["bird", "sings", "the", "sweetly"],
+      "correct": "The bird sings sweetly."
+    },
+    {
+      "words": ["store", "to", "buy", "went", "I", "milk"],
+      "correct": "I went to the store to buy milk."
+    },
+    {
+      "words": ["team", "won", "the", "match"],
+      "correct": "The team won the match."
+    },
+    {
+      "words": ["phone", "on", "talking", "is", "sister", "my"],
+      "correct": "My sister is talking on the phone."
+    },
+    {
+      "words": ["books", "reads", "he", "library", "in", "the"],
+      "correct": "He reads books in the library."
+    },
+    {
+      "words": ["dinner", "cooks", "mother", "every", "night"],
+      "correct": "Mother cooks dinner every night."
+    },
+    {
+      "words": ["exam", "passed", "she", "with", "flying", "colours"],
+      "correct": "She passed the exam with flying colours."
+    },
+    {
+      "words": ["cycle", "rides", "to", "school", "he"],
+      "correct": "He rides a cycle to school."
+    },
+    {
+      "words": ["song", "beautiful", "sang", "the", "girl"],
+      "correct": "The girl sang a beautiful song."
+    },
+    {
+      "words": ["traffic", "was", "heavy", "today"],
+      "correct": "Traffic was heavy today."
+    },
+    {
+      "words": ["vegetables", "eating", "are", "the", "children"],
+      "correct": "The children are eating vegetables."
+    },
+    {
+      "words": ["meeting", "before", "finished", "I", "work"],
+      "correct": "I finished work before the meeting."
+    },
+    {
+      "words": ["sun", "rises", "in", "the", "east"],
+      "correct": "The sun rises in the east."
+    },
+    {
+      "words": ["laptop", "new", "bought", "he"],
+      "correct": "He bought a new laptop."
+    },
+    {
+      "words": ["yoga", "practices", "she", "daily"],
+      "correct": "She practices yoga daily."
+    },
+    {
+      "words": ["friend", "met", "I", "my", "at", "station"],
+      "correct": "I met my friend at the station."
+    },
+    {
+      "words": ["rainbow", "after", "appears", "rain"],
+      "correct": "A rainbow appears after rain."
+    },
+    {
+      "words": ["code", "writing", "is", "the", "developer"],
+      "correct": "The developer is writing code."
+    },
+    {
+      "words": ["holiday", "on", "visit", "we", "grandparents"],
+      "correct": "We visit grandparents on holiday."
+    },
+    {
+      "words": ["stars", "shine", "at", "night"],
+      "correct": "Stars shine at night."
     }
   ]
 }

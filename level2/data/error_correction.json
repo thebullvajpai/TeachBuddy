@@ -1,16 +1,212 @@
 {
-  "questions":[
+  "questions": [
     {
-      "sentence":"She go to school every day.",
-      "correct":"She goes to school every day."
+      "sentence": "She go to school every day.",
+      "correct": "She goes to school every day."
     },
     {
-      "sentence":"I did not knew the answer.",
-      "correct":"I did not know the answer."
+      "sentence": "I did not knew the answer.",
+      "correct": "I did not know the answer."
     },
     {
-      "sentence":"He have finished his work.",
-      "correct":"He has finished his work."
+      "sentence": "He have finished his work.",
+      "correct": "He has finished his work."
+    },
+    {
+      "sentence": "They was playing football yesterday.",
+      "correct": "They were playing football yesterday."
+    },
+    {
+      "sentence": "She don't like coffee.",
+      "correct": "She doesn't like coffee."
+    },
+    {
+      "sentence": "We enjoys the movie last night.",
+      "correct": "We enjoyed the movie last night."
+    },
+    {
+      "sentence": "The cat run fast in the garden.",
+      "correct": "The cat runs fast in the garden."
+    },
+    {
+      "sentence": "I am agree with your opinion.",
+      "correct": "I agree with your opinion."
+    },
+    {
+      "sentence": "He work hard since morning.",
+      "correct": "He has worked hard since morning."
+    },
+    {
+      "sentence": "There is many books on the table.",
+      "correct": "There are many books on the table."
+    },
+    {
+      "sentence": "She sing good at the concert.",
+      "correct": "She sings well at the concert."
+    },
+    {
+      "sentence": "We will going to the park tomorrow.",
+      "correct": "We will go to the park tomorrow."
+    },
+    {
+      "sentence": "My brother live in Delhi since 2020.",
+      "correct": "My brother has lived in Delhi since 2020."
+    },
+    {
+      "sentence": "The teacher explain the lesson clear.",
+      "correct": "The teacher explains the lesson clearly."
+    },
+    {
+      "sentence": "I have saw that movie before.",
+      "correct": "I have seen that movie before."
+    },
+    {
+      "sentence": "She is more taller than her sister.",
+      "correct": "She is taller than her sister."
+    },
+    {
+      "sentence": "They has arrived late to the meeting.",
+      "correct": "They have arrived late to the meeting."
+    },
+    {
+      "sentence": "He don't knows the way home.",
+      "correct": "He doesn't know the way home."
+    },
+    {
+      "sentence": "The news are very interesting today.",
+      "correct": "The news is very interesting today."
+    },
+    {
+      "sentence": "I am feeling happily about the result.",
+      "correct": "I am feeling happy about the result."
+    },
+    {
+      "sentence": "She study English from two years.",
+      "correct": "She has studied English for two years."
+    },
+    {
+      "sentence": "Everyone have to finish their homework.",
+      "correct": "Everyone has to finish their homework."
+    },
+    {
+      "sentence": "The children plays outside every evening.",
+      "correct": "The children play outside every evening."
+    },
+    {
+      "sentence": "We was waiting for the bus an hour.",
+      "correct": "We were waiting for the bus for an hour."
+    },
+    {
+      "sentence": "He is knowing the answer already.",
+      "correct": "He knows the answer already."
+    },
+    {
+      "sentence": "This is the most best book I read.",
+      "correct": "This is the best book I have read."
+    },
+    {
+      "sentence": "She has went to the market.",
+      "correct": "She has gone to the market."
+    },
+    {
+      "sentence": "My friend and me are going out.",
+      "correct": "My friend and I are going out."
+    },
+    {
+      "sentence": "The weather seem nice today.",
+      "correct": "The weather seems nice today."
+    },
+    {
+      "sentence": "I will call you as soon as I will arrive.",
+      "correct": "I will call you as soon as I arrive."
+    },
+    {
+      "sentence": "Neither the students nor the teacher were know the answer.",
+      "correct": "Neither the students nor the teacher knew the answer."
+    },
+    {
+      "sentence": "She is used to living in big city.",
+      "correct": "She is used to living in a big city."
+    },
+    {
+      "sentence": "He runs more faster than me.",
+      "correct": "He runs faster than me."
+    },
+    {
+      "sentence": "The team play well last match.",
+      "correct": "The team played well in the last match."
+    },
+    {
+      "sentence": "I have been working here since three months.",
+      "correct": "I have been working here for three months."
+    },
+    {
+      "sentence": "Both of the boys is tired.",
+      "correct": "Both of the boys are tired."
+    },
+    {
+      "sentence": "She asked that where is the station.",
+      "correct": "She asked where the station is."
+    },
+    {
+      "sentence": "The furniture are new in the room.",
+      "correct": "The furniture is new in the room."
+    },
+    {
+      "sentence": "He cutted his finger while cooking.",
+      "correct": "He cut his finger while cooking."
+    },
+    {
+      "sentence": "We need to discuss about the plan.",
+      "correct": "We need to discuss the plan."
+    },
+    {
+      "sentence": "One of my friend is a doctor.",
+      "correct": "One of my friends is a doctor."
+    },
+    {
+      "sentence": "She prefer tea than coffee.",
+      "correct": "She prefers tea to coffee."
+    },
+    {
+      "sentence": "The police has caught the thief.",
+      "correct": "The police have caught the thief."
+    },
+    {
+      "sentence": "I am interesting in learning Python.",
+      "correct": "I am interested in learning Python."
+    },
+    {
+      "sentence": "He said me that he was busy.",
+      "correct": "He told me that he was busy."
+    },
+    {
+      "sentence": "The price of petrol have increased.",
+      "correct": "The price of petrol has increased."
+    },
+    {
+      "sentence": "She is married with a software engineer.",
+      "correct": "She is married to a software engineer."
+    },
+    {
+      "sentence": "We must to finish this project today.",
+      "correct": "We must finish this project today."
+    },
+    {
+      "sentence": "The book contain many useful tips.",
+      "correct": "The book contains many useful tips."
+    },
+    {
+      "sentence": "I will meet you at 5 o'clock evening.",
+      "correct": "I will meet you at 5 o'clock in the evening."
+    },
+    {
+      "sentence": "Neither of them were able to come.",
+      "correct": "Neither of them was able to come."
+    },
+    {
+      "sentence": "She has 20 years old.",
+      "correct": "She is 20 years old."
     }
   ]
 }
